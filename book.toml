@@ -17,7 +17,7 @@ site-url = "/licence-radio/"
 no-section-label = false
 
 [output.html.fold]
-enable = false
+enable = true
 level = 0
 
 [output.html.print]
