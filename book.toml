@@ -3,7 +3,7 @@ title = "Licence Radio Amateur"
 authors = ["F6GPX - Jean-Luc Fortin"]
 description = "Cours de préparation au certificat d'opérateur du service amateur"
 language = "fr"
-src = "."
+src = "./src"
 
 [build]
 build-dir = "book"
