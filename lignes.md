@@ -1,6 +1,6 @@
-## 10) LIGNES DE TRANSMISSION ET ADAPTATIONS
+## LIGNES DE TRANSMISSION ET ADAPTATIONS
 
-### 10.1) Généralités
+### Généralités
 
 La **ligne de transmission** (feeder) transfère l'énergie entre l'émetteur et l'antenne.
 
@@ -17,7 +17,7 @@ La **ligne de transmission** (feeder) transfère l'énergie entre l'émetteur et
 - **Mode différentiel** : courants conjugués, pas de rayonnement
 - **Mode commun** : la ligne rayonne (indésirable)
 
-### 10.2) Impédance et coefficient de vélocité
+### Impédance et coefficient de vélocité
 
 **Impédance caractéristique : Z(Ω) = √(L(H/m) / C(F/m))**
 
@@ -34,7 +34,7 @@ La **ligne de transmission** (feeder) transfère l'énergie entre l'émetteur et
 | Ligne bifilaire | 1,1 | ~95% |
 | Microstrip | ~4 | ~50% |
 
-### 10.3) Adaptation et ondes stationnaires
+### Adaptation et ondes stationnaires
 
 **Désadaptation** = impédances différentes → ondes stationnaires
 

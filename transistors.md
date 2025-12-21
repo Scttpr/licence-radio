@@ -1,6 +1,6 @@
-## 6) LES TRANSISTORS ET LEURS MONTAGES
+## LES TRANSISTORS ET LEURS MONTAGES
 
-### 6.1) Principe de fonctionnement
+### Principe de fonctionnement
 
 Un **transistor bipolaire** est composé de deux diodes montées tête-bêche.
 
@@ -15,7 +15,7 @@ Un **transistor bipolaire** est composé de deux diodes montées tête-bêche.
 
 > Le collecteur est connecté au boîtier métallique s'il y en a un.
 
-### 6.2) Gain d'un transistor
+### Gain d'un transistor
 
 **Formule : Ic = β × Ib**
 
@@ -38,7 +38,7 @@ où :
 > **Exemple** : Transistor β = 80, Ib = 500 μA
 > Ic = 500 μA × 80 = 40 000 μA = **40 mA**
 
-### 6.3) Montages des transistors
+### Montages des transistors
 
 | Montage | Gain intensité | Gain tension | Impédance entrée | Impédance sortie | Déphasage |
 |---------|---------------|--------------|------------------|------------------|-----------|

@@ -4,9 +4,9 @@
 
 ---
 
-## 1) CLASSES D'ÉMISSION ET CONDITIONS TECHNIQUES
+## CLASSES D'ÉMISSION ET CONDITIONS TECHNIQUES
 
-### R-1.1) Environnement réglementaire
+### Environnement réglementaire
 
 Trois niveaux réglementaires se superposent et se complètent.
 
@@ -95,7 +95,7 @@ L'**Agence Nationale des Fréquences (ANFR)** est un établissement public à ca
 
 ---
 
-### R-1.2) Les classes d'émission
+### Les classes d'émission
 
 Les classes d'émission sont définies dans l'appendice A1 du RR par **3 caractères** :
 
@@ -161,7 +161,7 @@ Depuis mars 2013, les stations peuvent émettre dans toutes les classes d'émiss
 
 ---
 
-### R-1.3) Conditions techniques
+### Conditions techniques
 
 #### a) Matériel obligatoire
 

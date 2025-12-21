@@ -1,13 +1,13 @@
-## 12) LES DIFFÉRENTS TYPES DE MODULATIONS
+## LES DIFFÉRENTS TYPES DE MODULATIONS
 
-### 12.1) Principes
+### Principes
 
 Une onde porteuse peut être modulée en :
 - **Amplitude** (AM)
 - **Fréquence** (FM)
 - **Phase** (PM)
 
-### 12.2) Modulation d'Amplitude (AM)
+### Modulation d'Amplitude (AM)
 
 **Spectrogramme :**
 - Porteuse au centre
@@ -23,7 +23,7 @@ Une onde porteuse peut être modulée en :
 - Maintient un niveau BF constant
 - Agit sur le gain des étages RF/FI
 
-### 12.3) Bande Latérale Unique (BLU/SSB)
+### Bande Latérale Unique (BLU/SSB)
 
 - Suppression de la porteuse et d'une bande latérale
 - **BLS** : Bande Latérale Supérieure (USB)
@@ -33,12 +33,12 @@ Avantages :
 - Puissance concentrée dans le signal utile
 - Bande passante réduite
 
-### 12.4) CW (Télégraphie)
+### CW (Télégraphie)
 
 - Porteuse modulée en tout ou rien
 - Modulation d'amplitude la plus simple
 
-### 12.5) Modulation de Fréquence (FM)
+### Modulation de Fréquence (FM)
 
 **Excursion (swing)** = écart entre fréquence centrale et extrême
 **Bande occupée** = 2 × excursion
@@ -47,7 +47,7 @@ Avantages :
 - **NBFM** : bande étroite (±3 kHz)
 - **WBFM** : bande large (±75 kHz)
 
-### 12.6) Modes numériques
+### Modes numériques
 
 | Mode | Type de modulation |
 |------|-------------------|

@@ -1,6 +1,6 @@
-## 4) DÉCIBEL, CIRCUITS R-C ET L-C
+## DÉCIBEL, CIRCUITS R-C ET L-C
 
-### 4.1) Décibel (dB)
+### Décibel (dB)
 
 #### Formules
 
@@ -20,7 +20,7 @@ Pour la **tension** : **G(dB) = 20 × log(U2/U1)**
 | -3 | 0,5 | 0,707 |
 | -6 | 0,25 | 0,5 |
 
-### 4.2) Circuits LC et résonance
+### Circuits LC et résonance
 
 #### Fréquence de résonance (Loi de Thomson)
 
@@ -30,7 +30,7 @@ Pour la **tension** : **G(dB) = 20 × log(U2/U1)**
 - XL = XC
 - L'impédance est minimale (circuit série) ou maximale (circuit parallèle)
 
-### 4.3) Facteur de qualité Q
+### Facteur de qualité Q
 
 **Q = XL/R = XC/R** (à la résonance)
 

@@ -1,8 +1,8 @@
 # SECTION C : RADIOÉLECTRICITÉ
 
-## 9) PROPAGATION ET ANTENNES
+## PROPAGATION ET ANTENNES
 
-### 9.1) Relation longueur d'onde / fréquence
+### Relation longueur d'onde / fréquence
 
 **Formule fondamentale :**
 
@@ -20,7 +20,7 @@ où :
 - Stations qui se rapprochent → fréquence reçue plus haute
 - Stations qui s'éloignent → fréquence reçue plus basse
 
-### 9.2) Modes de propagation
+### Modes de propagation
 
 | Mode | Description | Fréquences |
 |------|-------------|------------|
@@ -28,7 +28,7 @@ où :
 | **Ondes réfléchies** | Rebondissent sur l'ionosphère | Ondes courtes (HF) |
 | **Ondes directes** | Antennes en vue | VHF et au-delà (> 100 MHz) |
 
-### 9.3) Propagation en ondes réfléchies
+### Propagation en ondes réfléchies
 
 **Couches de l'ionosphère :**
 

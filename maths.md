@@ -4,9 +4,9 @@
 
 ---
 
-## 0) RAPPELS DE MATHÉMATIQUES ET D'ALGÈBRE
+## RAPPELS DE MATHÉMATIQUES ET D'ALGÈBRE
 
-### 0.1) Transformation d'équations
+### Transformation d'équations
 
 Une équation indique que les deux termes de chaque côté du signe = sont de même valeur.
 
@@ -29,7 +29,7 @@ Une équation indique que les deux termes de chaque côté du signe = sont de m�
 
 ---
 
-### 0.2) Puissances de 10, multiples et sous-multiples
+### Puissances de 10, multiples et sous-multiples
 
 | Symbole | Préfixe | Puissance de 10 | Valeur |
 |---------|---------|-----------------|--------|
@@ -50,7 +50,7 @@ Une équation indique que les deux termes de chaque côté du signe = sont de m�
 
 ---
 
-### 0.3) Utilisation d'une calculette
+### Utilisation d'une calculette
 
 #### Fonctions essentielles à maîtriser
 

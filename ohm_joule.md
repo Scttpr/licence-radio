@@ -1,6 +1,6 @@
-## 1) LOIS D'OHM ET DE JOULE
+## LOIS D'OHM ET DE JOULE
 
-### 1.1) Bases de l'électricité
+### Bases de l'électricité
 
 | Grandeur | Symbole | Unité | Abréviation |
 |----------|---------|-------|-------------|
@@ -11,7 +11,7 @@
 | Énergie | W ou E | Joule | J |
 | Charge | Q | Coulomb | C |
 
-### 1.2) Loi d'Ohm
+### Loi d'Ohm
 
 **U = R × I**
 
@@ -21,7 +21,7 @@ Variantes :
 
 > **Exemple** : R = 100 Ω, I = 0,5 A → U = 100 × 0,5 = **50 V**
 
-### 1.3) Loi de Joule (Puissance)
+### Loi de Joule (Puissance)
 
 **P = U × I**
 
@@ -31,7 +31,7 @@ Variantes combinées avec la loi d'Ohm :
 
 > **Exemple** : U = 12 V, I = 2 A → P = 12 × 2 = **24 W**
 
-### 1.4) Résistivité
+### Résistivité
 
 La résistance d'un conducteur dépend de :
 - Sa longueur (L) : plus il est long, plus R augmente
@@ -40,7 +40,7 @@ La résistance d'un conducteur dépend de :
 
 **R = ρ × L / S**
 
-### 1.5) Code des couleurs
+### Code des couleurs
 
 | Couleur | Chiffre | Multiplicateur |
 |---------|---------|----------------|

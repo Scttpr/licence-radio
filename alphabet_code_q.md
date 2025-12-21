@@ -1,6 +1,6 @@
-## 3) ALPHABET INTERNATIONAL ET CODE Q
+## ALPHABET INTERNATIONAL ET CODE Q
 
-### R-3.1) Table d'épellation internationale
+### Table d'épellation internationale
 
 La table d'épellation des lettres étant internationale, ce sont l'orthographe et la prononciation anglaise des mots qui sont utilisées.
 
@@ -17,7 +17,7 @@ La table d'épellation des lettres étant internationale, ce sont l'orthographe 
 
 ---
 
-### R-3.2) Abréviations en code Q
+### Abréviations en code Q
 
 Les 22 abréviations en code Q à connaître sont issues de la recommandation T/R 61-02 (programme HAREC).
 
@@ -79,7 +79,7 @@ Une abréviation du code Q est formulée comme une **question** si elle est suiv
 
 ---
 
-### R-3.3) Déroulement d'un contact
+### Déroulement d'un contact
 
 L'article 4 de la décision ARCEP 12-1241 rappelle la disposition S25.9 du RR :
 
@@ -98,7 +98,7 @@ L'utilisateur d'une station du service d'amateur doit :
 
 ---
 
-### R-3.4) Teneur des messages
+### Teneur des messages
 
 L'article 1 de la décision ARCEP 12-1241 rappelle les dispositions du RR :
 

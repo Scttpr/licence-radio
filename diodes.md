@@ -1,8 +1,8 @@
 # SECTION B : LES COMPOSANTS ACTIFS
 
-## 5) LES DIODES ET LEURS MONTAGES
+## LES DIODES ET LEURS MONTAGES
 
-### 5.1) Principe de fonctionnement
+### Principe de fonctionnement
 
 Les **diodes** sont des composants qui ne laissent passer le courant que dans un sens, indiqué par une flèche sur le schéma.
 
@@ -16,7 +16,7 @@ Les **diodes** sont des composants qui ne laissent passer le courant que dans un
 - La **cathode** est repérée par la lettre K sur le schéma et par une bague de couleur sur le composant
 - Le boîtier métallique des diodes de puissance est relié à la cathode
 
-### 5.2) Courbes et caractéristiques
+### Courbes et caractéristiques
 
 #### Tensions de seuil
 
@@ -36,7 +36,7 @@ Les **diodes** sont des composants qui ne laissent passer le courant que dans un
 - La capacité diminue : c'est l'**effet Varicap**
 - Au-delà de la **tension de claquage** (ou **tension Zener**), la résistance devient nulle
 
-### 5.3) Montages des diodes
+### Montages des diodes
 
 #### a) Redressement
 

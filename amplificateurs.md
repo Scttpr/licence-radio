@@ -1,6 +1,6 @@
-## 7) AMPLIFICATEURS, OSCILLATEURS, MÉLANGEURS
+## AMPLIFICATEURS, OSCILLATEURS, MÉLANGEURS
 
-### 7.1) Classes d'amplification
+### Classes d'amplification
 
 | Classe | Caractéristiques | Usage |
 |--------|-----------------|-------|
@@ -12,7 +12,7 @@
 
 > La classe C est à **prohiber** pour les signaux modulés en amplitude (AM, BLU)
 
-### 7.2) Résistance de charge
+### Résistance de charge
 
 La **résistance de charge (Rc)** permet de récupérer les variations de tension en sortie du transistor.
 
@@ -25,7 +25,7 @@ La **résistance de charge (Rc)** permet de récupérer les variations de tensio
 - Le montage émetteur commun génère un **déphasage de 180°**
 - Au-delà du **point de compression**, l'amplificateur n'est plus linéaire
 
-### 7.3) Liaisons entre les étages
+### Liaisons entre les étages
 
 | Type de liaison | Utilisation |
 |-----------------|-------------|
@@ -36,7 +36,7 @@ La **résistance de charge (Rc)** permet de récupérer les variations de tensio
 
 **Séparateur (tampon)** : étage d'adaptation des niveaux et impédances
 
-### 7.4) Amplificateurs RF
+### Amplificateurs RF
 
 Composants d'un amplificateur RF :
 - **Condensateur de découplage** : empêche la HF de remonter dans l'alimentation

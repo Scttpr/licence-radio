@@ -1,6 +1,6 @@
-## 8) AMPLIFICATEURS OPÉRATIONNELS ET CIRCUITS LOGIQUES
+## AMPLIFICATEURS OPÉRATIONNELS ET CIRCUITS LOGIQUES
 
-### 8.1) Caractéristiques des amplificateurs opérationnels
+### Caractéristiques des amplificateurs opérationnels
 
 Les **ampli-op** sont des amplificateurs linéaires représentés par un triangle.
 
@@ -13,7 +13,7 @@ Les **ampli-op** sont des amplificateurs linéaires représentés par un triangl
 - Entrée normale (+)
 - Entrée inverseuse (-)
 
-### 8.2) Montage inverseur (fondamental)
+### Montage inverseur (fondamental)
 
 **Formule du gain : G = -R2 / R1**
 
@@ -29,11 +29,11 @@ Le gain est négatif (inversion de phase).
 > **Exemple** : R1 = 5 kΩ, R2 = 25 kΩ
 > G = -25000/5000 = **-5**
 
-### 8.3) Montage non inverseur
+### Montage non inverseur
 
 **Gain : G = (R2 / R1) + 1** ou **G = (R2 + R1) / R1**
 
-### 8.4) Circuits logiques
+### Circuits logiques
 
 Les portes logiques ne connaissent que deux états : **0** (0 V) et **1** (5 V en logique TTL).
 

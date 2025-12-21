@@ -1,8 +1,8 @@
 ## Section B : Connaissances techniques de base
 
-## 5) CONNAISSANCES TECHNIQUES DE BASE
+## CONNAISSANCES TECHNIQUES DE BASE
 
-### R-5.1) Puissances, rapports de puissance et décibels (dB)
+### Puissances, rapports de puissance et décibels (dB)
 
 Le **décibel (dB)** est une unité permettant d'exprimer un rapport entre deux grandeurs de même nature.
 
@@ -35,7 +35,7 @@ Le **rendement**, exprimé en %, est le rapport entre la puissance utile et la p
 
 ---
 
-### R-5.2) Types et caractéristiques des antennes
+### Types et caractéristiques des antennes
 
 #### a) Relation longueur d'onde / fréquence
 
@@ -114,7 +114,7 @@ L'écart d'angle entre les directions pour lesquelles la puissance rayonnée est
 
 ---
 
-### R-5.3) Lignes de transmission
+### Lignes de transmission
 
 #### a) Caractéristiques
 
@@ -149,7 +149,7 @@ Lorsque la ligne et la charge n'ont pas la même impédance, il apparaît des **
 
 ---
 
-### R-5.4) Brouillage et protections des équipements électroniques
+### Brouillage et protections des équipements électroniques
 
 #### a) Compatibilité Électromagnétique (CEM)
 
@@ -176,7 +176,7 @@ Un signal puissant provoque une surcharge de l'étage d'entrée du récepteur et
 
 ---
 
-### R-5.5) Protection électrique
+### Protection électrique
 
 #### a) Protection des personnes
 

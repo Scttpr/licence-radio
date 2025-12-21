@@ -1,6 +1,6 @@
-## 2) FRÉQUENCES ET PUISSANCES AUTORISÉES
+## FRÉQUENCES ET PUISSANCES AUTORISÉES
 
-### R-2.1) Fréquences attribuées
+### Fréquences attribuées
 
 Le RR (art. S5-2 à S5-9) découpe le globe terrestre en **3 régions** :
 - **Région 1** : Europe, Afrique, Proche Orient et pays de l'ex-URSS
@@ -43,7 +43,7 @@ La Réunion et Mayotte sont en **Région 1**, comme la France continentale et la
 
 ---
 
-### R-2.2) Puissances et classes d'émission autorisées
+### Puissances et classes d'émission autorisées
 
 | Certificat | Bandes de fréquences | Puissance maximum | Classes d'émission |
 |------------|---------------------|-------------------|-------------------|

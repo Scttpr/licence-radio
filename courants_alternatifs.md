@@ -1,6 +1,6 @@
-## 2) COURANTS ALTERNATIFS, BOBINES ET CONDENSATEURS
+## COURANTS ALTERNATIFS, BOBINES ET CONDENSATEURS
 
-### 2.1) Courants alternatifs
+### Courants alternatifs
 
 Un courant alternatif varie périodiquement dans le temps.
 
@@ -11,7 +11,7 @@ Un courant alternatif varie périodiquement dans le temps.
 
 **f = 1 / T** et **T = 1 / f**
 
-### 2.2) Valeurs caractéristiques
+### Valeurs caractéristiques
 
 | Type | Symbole | Relation |
 |------|---------|----------|
@@ -22,7 +22,7 @@ Un courant alternatif varie périodiquement dans le temps.
 > **Exemple** : Le secteur 230 V est une valeur efficace.
 > Valeur crête = 230 × √2 ≈ **325 V**
 
-### 2.3) Bobines et condensateurs
+### Bobines et condensateurs
 
 #### Bobine (inductance)
 
@@ -47,7 +47,7 @@ Un courant alternatif varie périodiquement dans le temps.
 - **Bobine** : XL augmente avec la fréquence (bloque les HF, laisse passer les BF)
 - **Condensateur** : XC diminue avec la fréquence (bloque les BF, laisse passer les HF)
 
-### 2.4) Constante de temps
+### Constante de temps
 
 Pour un circuit RC :
 

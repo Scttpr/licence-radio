@@ -1,15 +1,15 @@
-## 11) LES SYNOPTIQUES
+## LES SYNOPTIQUES
 
 Les synoptiques sont des schémas de principe (non électriques) montrant l'enchaînement des étages.
 
-### 11.1) Récepteur à amplification directe
+### Récepteur à amplification directe
 
 Antenne → **RF1** → **RF2** → **Démodulateur** → **AF** → Haut-parleur
 
 - Tous les étages RF accordés sur la fréquence à recevoir
 - Difficile à régler si plusieurs fréquences
 
-### 11.2) Récepteur superhétérodyne
+### Récepteur superhétérodyne
 
 Antenne → **Filtre** → **Mélangeur** → **FI** → **Démodulateur** → **AF** → HP
                     ↑
@@ -26,7 +26,7 @@ Antenne → **Filtre** → **Mélangeur** → **FI** → **Démodulateur** → *
 - Meilleure **sélectivité** (filtres plus efficaces)
 - Meilleure **sensibilité**
 
-### 11.3) Fréquence image
+### Fréquence image
 
 **Fréquence image (Fim)** = fréquence parasite qui donne la même FI
 
@@ -34,7 +34,7 @@ Pour un récepteur infradyne : **Fim = |2×FO - HF|** ou **Fim = |2×FI - HF|**
 
 > Solution : première FI élevée (100 MHz+) pour rejeter la fréquence image
 
-### 11.4) Sensibilité
+### Sensibilité
 
 **Échelle S-mètre :**
 
