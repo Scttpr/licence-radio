@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-modulations",
+  "questions": [
+    {
+      "id": "q-tech-modulations-001",
+      "type": "multiple_choice",
+      "prompt": "Que signifie BLU ?",
+      "options": ["Bande Large Universelle", "Bande Laterale Unique", "Base Logique Unitaire", "Basse Limite Utile"],
+      "correct": 1,
+      "explanation": "BLU = Bande Laterale Unique (SSB en anglais)."
+    },
+    {
+      "id": "q-tech-modulations-002",
+      "type": "multiple_choice",
+      "prompt": "Un taux de modulation AM superieur a 100% provoque :",
+      "options": ["Une meilleure qualite", "De la surmodulation (distorsion)", "Plus de puissance", "Moins de bruit"],
+      "correct": 1,
+      "explanation": "Un taux de modulation > 100% cause de la surmodulation et de la distorsion."
+    },
+    {
+      "id": "q-tech-modulations-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la bande occupee par un signal FM avec une excursion de ±5 kHz ?",
+      "options": ["5 kHz", "10 kHz", "15 kHz", "20 kHz"],
+      "correct": 1,
+      "explanation": "Bande occupee = 2 × excursion = 2 × 5 = 10 kHz."
+    },
+    {
+      "id": "q-tech-modulations-004",
+      "type": "multiple_choice",
+      "prompt": "Que signifie USB en BLU ?",
+      "options": ["Universal Serial Bus", "Upper Side Band", "Unified Signal Bandwidth", "Ultra Short Band"],
+      "correct": 1,
+      "explanation": "USB = Upper Side Band = Bande Laterale Superieure (BLS)."
+    },
+    {
+      "id": "q-tech-modulations-005",
+      "type": "multiple_choice",
+      "prompt": "Quel type de modulation utilise le mode FSK ?",
+      "options": ["Amplitude", "Frequence", "Phase", "Amplitude et phase"],
+      "correct": 1,
+      "explanation": "FSK = Frequency Shift Keying = modulation de frequence."
+    },
+    {
+      "id": "q-tech-modulations-006",
+      "type": "multiple_choice",
+      "prompt": "La CW (telegraphie) est une modulation de type :",
+      "options": ["Frequence", "Phase", "Amplitude (tout ou rien)", "Numerique complexe"],
+      "correct": 2,
+      "explanation": "La CW est une modulation d'amplitude en tout ou rien (porteuse presente ou absente)."
+    },
+    {
+      "id": "q-tech-modulations-007",
+      "type": "multiple_choice",
+      "prompt": "Quel est l'avantage principal de la BLU par rapport a l'AM ?",
+      "options": ["Meilleure qualite audio", "Puissance concentree dans le signal utile", "Plus simple a recevoir", "Moins de composants"],
+      "correct": 1,
+      "explanation": "En BLU, toute la puissance est concentree dans le signal utile (pas de porteuse ni de 2eme bande)."
+    },
+    {
+      "id": "q-tech-modulations-008",
+      "type": "multiple_choice",
+      "prompt": "Que signifie NBFM ?",
+      "options": ["New Band Frequency Modulation", "Narrow Band FM", "Normal Bandwidth FM", "No Bandwidth FM"],
+      "correct": 1,
+      "explanation": "NBFM = Narrow Band FM = FM bande etroite (±3 kHz typiquement)."
+    },
+    {
+      "id": "q-tech-modulations-009",
+      "type": "multiple_choice",
+      "prompt": "A quoi sert la CAG dans un recepteur AM ?",
+      "options": ["Augmenter la puissance", "Maintenir un niveau BF constant", "Filtrer les parasites", "Decoder le signal"],
+      "correct": 1,
+      "explanation": "La CAG (Controle Automatique de Gain) maintient un niveau BF constant malgre les variations du signal recu."
+    },
+    {
+      "id": "q-tech-modulations-010",
+      "type": "multiple_choice",
+      "prompt": "Quelle modulation utilise QAM ?",
+      "options": ["Amplitude seule", "Frequence seule", "Phase seule", "Amplitude et phase"],
+      "correct": 3,
+      "explanation": "QAM = Quadrature Amplitude Modulation = modulation d'amplitude et de phase combinees."
+    }
+  ]
+}

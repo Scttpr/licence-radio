@@ -1,0 +1,53 @@
+{
+  "segmentId": "tech-decibels",
+  "questions": [
+    {
+      "id": "q-tech-decibels-001",
+      "type": "multiple_choice",
+      "prompt": "Un gain de +3 dB correspond a un rapport de puissance de :",
+      "options": ["3", "2", "10", "1,5"],
+      "correct": 1,
+      "explanation": "+3 dB correspond a un doublement de la puissance (×2)."
+    },
+    {
+      "id": "q-tech-decibels-002",
+      "type": "multiple_choice",
+      "prompt": "Un gain de +10 dB correspond a un rapport de puissance de :",
+      "options": ["2", "5", "10", "100"],
+      "correct": 2,
+      "explanation": "+10 dB correspond a une multiplication de la puissance par 10."
+    },
+    {
+      "id": "q-tech-decibels-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule du gain en dB pour la puissance ?",
+      "options": ["G = 20 × log(P2/P1)", "G = 10 × log(P2/P1)", "G = log(P2/P1)", "G = P2/P1"],
+      "correct": 1,
+      "explanation": "Pour la puissance : G(dB) = 10 × log(P2/P1)."
+    },
+    {
+      "id": "q-tech-decibels-004",
+      "type": "multiple_choice",
+      "prompt": "Un gain de -3 dB correspond a un rapport de puissance de :",
+      "options": ["2", "0,5", "0,1", "3"],
+      "correct": 1,
+      "explanation": "-3 dB correspond a une division par 2 de la puissance (×0,5)."
+    },
+    {
+      "id": "q-tech-decibels-005",
+      "type": "multiple_choice",
+      "prompt": "Un gain de +20 dB correspond a un rapport de puissance de :",
+      "options": ["20", "10", "100", "200"],
+      "correct": 2,
+      "explanation": "+20 dB = +10 dB + 10 dB = 10 × 10 = 100."
+    },
+    {
+      "id": "q-tech-decibels-006",
+      "type": "multiple_choice",
+      "prompt": "Un gain de +6 dB correspond a un rapport de tension de :",
+      "options": ["6", "4", "2", "1,41"],
+      "correct": 2,
+      "explanation": "+6 dB en tension correspond a un rapport de 2 (doublement de la tension)."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "segmentId": "technique-radioelectricite-lignes-0",
+  "questions": [
+    {
+      "id": "q-technique-radioelectricite-lignes-0-001",
+      "type": "multiple_choice",
+      "prompt": "Question sur \"LIGNES DE TRANSMISSION ET ADAPTATIONS\" - À compléter manuellement",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct": 0,
+      "explanation": "Explication à ajouter."
+    }
+  ]
+}

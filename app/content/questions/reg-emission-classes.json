@@ -1,0 +1,84 @@
+{
+  "segmentId": "reg-emission-classes",
+  "questions": [
+    {
+      "id": "q-reg-emission-classes-001",
+      "type": "multiple_choice",
+      "prompt": "Que signifie la classe d'émission J3E ?",
+      "options": ["FM voix", "BLU voix (SSB)", "CW (morse)", "AM voix"],
+      "correct": 1,
+      "explanation": "J3E = Bande Latérale Unique (BLU/SSB) avec porteuse supprimée, voix. C'est le mode le plus courant en HF."
+    },
+    {
+      "id": "q-reg-emission-classes-002",
+      "type": "multiple_choice",
+      "prompt": "Quelle classe d'émission désigne le morse (CW) ?",
+      "options": ["A1A", "F3E", "J3E", "A3E"],
+      "correct": 0,
+      "explanation": "A1A = manipulation par tout ou rien (morse/CW), sans modulation, télégraphie."
+    },
+    {
+      "id": "q-reg-emission-classes-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la classe d'émission pour la FM voix ?",
+      "options": ["J3E", "A1A", "F3E", "A3E"],
+      "correct": 2,
+      "explanation": "F3E = Modulation de fréquence (FM), voix. Très utilisé en VHF/UHF."
+    },
+    {
+      "id": "q-reg-emission-classes-004",
+      "type": "multiple_choice",
+      "prompt": "Dans le code d'émission XXY, que représente le premier caractère (X) ?",
+      "options": ["Le type d'information", "Le type de modulation", "La largeur de bande", "La puissance"],
+      "correct": 1,
+      "explanation": "Le 1er caractère indique le type de modulation : A=amplitude, F=fréquence, J=BLU."
+    },
+    {
+      "id": "q-reg-emission-classes-005",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le '3' dans J3E ?",
+      "options": ["3 kHz de bande passante", "Canal analogique unique", "3ème harmonique", "Niveau de puissance 3"],
+      "correct": 1,
+      "explanation": "Le 2ème caractère indique le type de signal : 3 = un seul canal analogique."
+    },
+    {
+      "id": "q-reg-emission-classes-006",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le 'E' dans J3E ?",
+      "options": ["Émission", "Europe", "Téléphonie (voix)", "Électronique"],
+      "correct": 2,
+      "explanation": "Le 3ème caractère indique le type d'information : E = téléphonie (voix)."
+    },
+    {
+      "id": "q-reg-emission-classes-007",
+      "type": "multiple_choice",
+      "prompt": "Quelle classe d'émission désigne l'AM double bande avec porteuse ?",
+      "options": ["A1A", "A3E", "J3E", "F3E"],
+      "correct": 1,
+      "explanation": "A3E = AM classique (double bande latérale + porteuse), voix. Peu utilisé en amateur."
+    },
+    {
+      "id": "q-reg-emission-classes-008",
+      "type": "true_false",
+      "prompt": "Le code F1B désigne la transmission de données en FM.",
+      "correct": true,
+      "explanation": "F = modulation de fréquence, 1 = données numériques sans sous-porteuse, B = télégraphie automatique."
+    },
+    {
+      "id": "q-reg-emission-classes-009",
+      "type": "multiple_choice",
+      "prompt": "Quel mode utilise la plus faible bande passante ?",
+      "options": ["FM (F3E)", "AM (A3E)", "BLU (J3E)", "CW (A1A)"],
+      "correct": 3,
+      "explanation": "Le CW (A1A) n'utilise qu'environ 100 Hz de bande passante, contre 3 kHz pour la BLU et 6 kHz pour l'AM."
+    },
+    {
+      "id": "q-reg-emission-classes-010",
+      "type": "multiple_choice",
+      "prompt": "Comment désigne-t-on la BLU avec porteuse réduite ?",
+      "options": ["J3E", "R3E", "A3J", "H3E"],
+      "correct": 1,
+      "explanation": "R3E = BLU avec porteuse réduite. J3E = porteuse supprimée. H3E = porteuse complète."
+    }
+  ]
+}

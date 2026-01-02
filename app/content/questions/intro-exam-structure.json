@@ -1,0 +1,83 @@
+{
+  "segmentId": "intro-exam-structure",
+  "questions": [
+    {
+      "id": "q-intro-exam-structure-001",
+      "type": "multiple_choice",
+      "prompt": "Combien d'épreuves comporte l'examen radioamateur ?",
+      "options": ["1 épreuve", "2 épreuves", "3 épreuves", "4 épreuves"],
+      "correct": 1,
+      "explanation": "L'examen comporte 2 épreuves : Réglementation et Technique, chacune avec 20 QCM."
+    },
+    {
+      "id": "q-intro-exam-structure-002",
+      "type": "multiple_choice",
+      "prompt": "Combien de questions contient chaque épreuve ?",
+      "options": ["10 QCM", "15 QCM", "20 QCM", "30 QCM"],
+      "correct": 2,
+      "explanation": "Chaque épreuve contient 20 questions à choix multiples (QCM)."
+    },
+    {
+      "id": "q-intro-exam-structure-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la note minimale pour réussir chaque épreuve ?",
+      "options": ["8/20", "10/20", "12/20", "14/20"],
+      "correct": 1,
+      "explanation": "Il faut obtenir au minimum 10/20 à chaque épreuve pour réussir."
+    },
+    {
+      "id": "q-intro-exam-structure-004",
+      "type": "multiple_choice",
+      "prompt": "Combien de temps dure chaque épreuve ?",
+      "options": ["20 minutes", "30 minutes", "45 minutes", "60 minutes"],
+      "correct": 2,
+      "explanation": "Chaque épreuve dure 45 minutes, soit 1h30 au total pour les deux."
+    },
+    {
+      "id": "q-intro-exam-structure-005",
+      "type": "multiple_choice",
+      "prompt": "Un indicatif avec le chiffre 4 (ex: F4ABC) signifie :",
+      "options": ["Ancien opérateur", "Radio-club", "Opérateur depuis 2012", "Station portable"],
+      "correct": 2,
+      "explanation": "F4 est attribué aux nouveaux opérateurs depuis la réforme de 2012."
+    },
+    {
+      "id": "q-intro-exam-structure-006",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la durée totale des deux épreuves ?",
+      "options": ["45 minutes", "1 heure", "1 heure 30", "2 heures"],
+      "correct": 2,
+      "explanation": "Deux épreuves de 45 minutes chacune = 1h30 au total."
+    },
+    {
+      "id": "q-intro-exam-structure-007",
+      "type": "true_false",
+      "prompt": "Il est possible de passer les deux épreuves à des dates différentes.",
+      "correct": true,
+      "explanation": "En cas d'échec partiel, on peut repasser uniquement l'épreuve échouée dans l'année qui suit."
+    },
+    {
+      "id": "q-intro-exam-structure-008",
+      "type": "multiple_choice",
+      "prompt": "Quel organisme organise l'examen radioamateur en France ?",
+      "options": ["ARCEP", "ANFR", "Préfecture", "Radio-club local"],
+      "correct": 1,
+      "explanation": "L'ANFR (Agence Nationale des Fréquences) organise et fait passer l'examen."
+    },
+    {
+      "id": "q-intro-exam-structure-009",
+      "type": "multiple_choice",
+      "prompt": "Combien de réponses possibles pour chaque question de l'examen ?",
+      "options": ["2 réponses", "3 réponses", "4 réponses", "5 réponses"],
+      "correct": 2,
+      "explanation": "Chaque question propose 4 réponses possibles dont une seule est correcte."
+    },
+    {
+      "id": "q-intro-exam-structure-010",
+      "type": "true_false",
+      "prompt": "Une mauvaise réponse enlève des points à l'examen.",
+      "correct": false,
+      "explanation": "Il n'y a pas de points négatifs. Une mauvaise réponse vaut 0 point, comme une absence de réponse."
+    }
+  ]
+}

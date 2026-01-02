@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-lignes",
+  "questions": [
+    {
+      "id": "q-tech-lignes-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de l'impedance caracteristique d'une ligne ?",
+      "options": ["Z = L × C", "Z = L / C", "Z = √(L/C)", "Z = L + C"],
+      "correct": 2,
+      "explanation": "L'impedance caracteristique est Z = √(L/C)."
+    },
+    {
+      "id": "q-tech-lignes-002",
+      "type": "multiple_choice",
+      "prompt": "Un ROS de 1:1 signifie :",
+      "options": ["Desadaptation totale", "Adaptation parfaite", "Court-circuit", "Circuit ouvert"],
+      "correct": 1,
+      "explanation": "Un ROS de 1:1 indique une adaptation parfaite (pas d'onde reflechie)."
+    },
+    {
+      "id": "q-tech-lignes-003",
+      "type": "multiple_choice",
+      "prompt": "A quoi sert un balun ?",
+      "options": ["Amplifier le signal", "Adapter ligne asymetrique vers antenne symetrique", "Filtrer les harmoniques", "Mesurer le ROS"],
+      "correct": 1,
+      "explanation": "Le balun (balanced-unbalanced) adapte une ligne asymetrique vers une antenne symetrique."
+    },
+    {
+      "id": "q-tech-lignes-004",
+      "type": "multiple_choice",
+      "prompt": "Une ligne quart d'onde ouverte a son extremite se comporte comme :",
+      "options": ["Un circuit ouvert", "Un court-circuit", "Une resistance", "Une inductance"],
+      "correct": 1,
+      "explanation": "Une ligne λ/4 ouverte ramene une impedance nulle (court-circuit)."
+    },
+    {
+      "id": "q-tech-lignes-005",
+      "type": "multiple_choice",
+      "prompt": "Pour adapter 50 Ω vers 100 Ω avec une ligne λ/4, quelle impedance de ligne faut-il ?",
+      "options": ["75 Ω", "70,7 Ω", "50 Ω", "100 Ω"],
+      "correct": 1,
+      "explanation": "Zc = √(Ze × Zs) = √(50 × 100) = 70,7 Ω."
+    },
+    {
+      "id": "q-tech-lignes-006",
+      "type": "multiple_choice",
+      "prompt": "Un ROS de 3:1 correspond a quelle puissance reflechie ?",
+      "options": ["50%", "33%", "25%", "11%"],
+      "correct": 2,
+      "explanation": "ROS 3:1 → ρ = 0,5 → Puissance reflechie = ρ² = 25%."
+    },
+    {
+      "id": "q-tech-lignes-007",
+      "type": "multiple_choice",
+      "prompt": "Le coefficient de velocite du cable coaxial polyethylene est d'environ :",
+      "options": ["50%", "66%", "95%", "100%"],
+      "correct": 1,
+      "explanation": "Le polyethylene a un coefficient de velocite d'environ 66%."
+    },
+    {
+      "id": "q-tech-lignes-008",
+      "type": "multiple_choice",
+      "prompt": "Une ligne demi-onde ramene :",
+      "options": ["Une impedance nulle", "L'impedance de charge telle quelle", "L'inverse de l'impedance", "Le double de l'impedance"],
+      "correct": 1,
+      "explanation": "Une ligne λ/2 ramene l'impedance de charge telle quelle (Ze = Zs)."
+    },
+    {
+      "id": "q-tech-lignes-009",
+      "type": "multiple_choice",
+      "prompt": "Le mode commun dans une ligne de transmission est :",
+      "options": ["Souhaitable", "Indesirable (rayonnement)", "Necessaire", "Inexistant"],
+      "correct": 1,
+      "explanation": "Le mode commun est indesirable car il fait rayonner la ligne."
+    },
+    {
+      "id": "q-tech-lignes-010",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule du coefficient de reflexion ρ en fonction du ROS ?",
+      "options": ["ρ = ROS", "ρ = (ROS-1)/(ROS+1)", "ρ = ROS/2", "ρ = 1/ROS"],
+      "correct": 1,
+      "explanation": "Le coefficient de reflexion est ρ = (ROS-1)/(ROS+1)."
+    }
+  ]
+}

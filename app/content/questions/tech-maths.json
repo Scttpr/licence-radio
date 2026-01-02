@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-maths",
+  "questions": [
+    {
+      "id": "q-tech-maths-001",
+      "type": "multiple_choice",
+      "prompt": "Que represente le prefixe 'k' (kilo) ?",
+      "options": ["10^6", "10^3", "10^-3", "10^9"],
+      "correct": 1,
+      "explanation": "Le prefixe kilo (k) represente 10^3, soit 1000."
+    },
+    {
+      "id": "q-tech-maths-002",
+      "type": "multiple_choice",
+      "prompt": "Combien de microfarads (μF) dans 1 millifarad (mF) ?",
+      "options": ["100 μF", "1000 μF", "10 μF", "10000 μF"],
+      "correct": 1,
+      "explanation": "1 mF = 10^-3 F et 1 μF = 10^-6 F, donc 1 mF = 1000 μF."
+    },
+    {
+      "id": "q-tech-maths-003",
+      "type": "multiple_choice",
+      "prompt": "Quel est le resultat de 10^6 × 10^3 ?",
+      "options": ["10^18", "10^9", "10^3", "10^2"],
+      "correct": 1,
+      "explanation": "Lors d'une multiplication, les puissances s'additionnent : 10^6 × 10^3 = 10^(6+3) = 10^9."
+    },
+    {
+      "id": "q-tech-maths-004",
+      "type": "multiple_choice",
+      "prompt": "Que represente le prefixe 'p' (pico) ?",
+      "options": ["10^-9", "10^-6", "10^-12", "10^-3"],
+      "correct": 2,
+      "explanation": "Le prefixe pico (p) represente 10^-12."
+    },
+    {
+      "id": "q-tech-maths-005",
+      "type": "multiple_choice",
+      "prompt": "Si A × X = B, comment isoler X ?",
+      "options": ["X = A × B", "X = A / B", "X = B / A", "X = A + B"],
+      "correct": 2,
+      "explanation": "Pour isoler X dans A × X = B, on divise les deux membres par A : X = B / A."
+    },
+    {
+      "id": "q-tech-maths-006",
+      "type": "multiple_choice",
+      "prompt": "Comment appelle-t-on le resultat d'une division ?",
+      "options": ["Somme", "Produit", "Quotient", "Difference"],
+      "correct": 2,
+      "explanation": "Le resultat d'une division s'appelle le quotient."
+    },
+    {
+      "id": "q-tech-maths-007",
+      "type": "multiple_choice",
+      "prompt": "Quel est le resultat de (10^-3)^2 ?",
+      "options": ["10^-6", "10^-1", "10^-9", "10^6"],
+      "correct": 0,
+      "explanation": "Lors d'une elevation au carre, la puissance est multipliee par 2 : (10^-3)^2 = 10^(-3×2) = 10^-6."
+    },
+    {
+      "id": "q-tech-maths-008",
+      "type": "multiple_choice",
+      "prompt": "Combien de nanofarads (nF) dans 1 microfarad (μF) ?",
+      "options": ["10 nF", "100 nF", "1000 nF", "10000 nF"],
+      "correct": 2,
+      "explanation": "1 μF = 10^-6 F et 1 nF = 10^-9 F, donc 1 μF = 1000 nF."
+    },
+    {
+      "id": "q-tech-maths-009",
+      "type": "multiple_choice",
+      "prompt": "Que represente le prefixe 'M' (Mega) ?",
+      "options": ["10^3", "10^6", "10^9", "10^-6"],
+      "correct": 1,
+      "explanation": "Le prefixe Mega (M) represente 10^6, soit 1 million."
+    },
+    {
+      "id": "q-tech-maths-010",
+      "type": "multiple_choice",
+      "prompt": "Quel mode d'affichage utilise des puissances de 10 multiples de 3 ?",
+      "options": ["Virgule flottante", "Scientifique", "Ingenieur", "Standard"],
+      "correct": 2,
+      "explanation": "Le mode Ingenieur affiche les puissances de 10 en multiples de 3, correspondant aux prefixes SI (kilo, mega, milli, micro...)."
+    }
+  ]
+}

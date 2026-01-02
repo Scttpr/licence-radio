@@ -1,0 +1,18 @@
+{
+  "segmentId": "introduction-introduction-2",
+  "questions": [
+    {
+      "id": "q-introduction-introduction-2-001",
+      "type": "multiple_choice",
+      "prompt": "Question sur \"PLAN DU COURS\" - À compléter manuellement",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct": 0,
+      "explanation": "Explication à ajouter."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-diodes",
+  "questions": [
+    {
+      "id": "q-tech-diodes-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension de seuil d'une diode au silicium ?",
+      "options": ["0,3 V", "0,6-0,7 V", "1,5 V", "2 V"],
+      "correct": 1,
+      "explanation": "La tension de seuil d'une diode au silicium est d'environ 0,6 a 0,7 V."
+    },
+    {
+      "id": "q-tech-diodes-002",
+      "type": "multiple_choice",
+      "prompt": "Dans quel sens une diode laisse-t-elle passer le courant ?",
+      "options": ["N vers P", "P vers N", "Dans les deux sens", "Aucun sens"],
+      "correct": 1,
+      "explanation": "Le courant circule de l'anode (P) vers la cathode (N)."
+    },
+    {
+      "id": "q-tech-diodes-003",
+      "type": "multiple_choice",
+      "prompt": "Combien de diodes comporte un pont de Graetz ?",
+      "options": ["1", "2", "4", "6"],
+      "correct": 2,
+      "explanation": "Le pont de Graetz (pont de diodes) est compose de 4 diodes."
+    },
+    {
+      "id": "q-tech-diodes-004",
+      "type": "multiple_choice",
+      "prompt": "A quoi sert une diode Zener ?",
+      "options": ["Amplifier", "Stabiliser la tension", "Osciller", "Filtrer"],
+      "correct": 1,
+      "explanation": "La diode Zener est utilisee comme stabilisateur de tension."
+    },
+    {
+      "id": "q-tech-diodes-005",
+      "type": "multiple_choice",
+      "prompt": "La diode Varicap est utilisee comme :",
+      "options": ["Resistance variable", "Condensateur variable", "Inductance variable", "Amplificateur"],
+      "correct": 1,
+      "explanation": "La diode Varicap remplace un condensateur variable, sa capacite variant avec la tension inverse."
+    },
+    {
+      "id": "q-tech-diodes-006",
+      "type": "multiple_choice",
+      "prompt": "Comment repere-t-on la cathode d'une diode ?",
+      "options": ["Par la lettre A", "Par une bague de couleur", "Par sa taille", "Par l'anode"],
+      "correct": 1,
+      "explanation": "La cathode est reperee par une bague de couleur sur le composant."
+    },
+    {
+      "id": "q-tech-diodes-007",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension de seuil d'une diode au germanium ?",
+      "options": ["0,6 V", "0,3 V", "1 V", "0,1 V"],
+      "correct": 1,
+      "explanation": "La tension de seuil d'une diode au germanium est d'environ 0,3 V."
+    },
+    {
+      "id": "q-tech-diodes-008",
+      "type": "multiple_choice",
+      "prompt": "Quelle diode est utilisee dans les oscillateurs hyperfrequence ?",
+      "options": ["Zener", "Varicap", "Gunn", "Schottky"],
+      "correct": 2,
+      "explanation": "La diode Gunn est utilisee dans les oscillateurs hyperfrequence (> 10 GHz)."
+    },
+    {
+      "id": "q-tech-diodes-009",
+      "type": "multiple_choice",
+      "prompt": "Dans un pont de diodes, la chute de tension totale est d'environ :",
+      "options": ["0,7 V", "1,4 V", "2,8 V", "0 V"],
+      "correct": 1,
+      "explanation": "Le courant traverse 2 diodes, donc chute de 2 × 0,7 V = 1,4 V."
+    },
+    {
+      "id": "q-tech-diodes-010",
+      "type": "multiple_choice",
+      "prompt": "Comment est montee une diode Zener dans un circuit ?",
+      "options": ["En sens direct", "En sens inverse", "En serie", "En parallele avec la charge"],
+      "correct": 1,
+      "explanation": "La diode Zener est montee en sens inverse pour stabiliser la tension."
+    }
+  ]
+}

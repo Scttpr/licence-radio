@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-electricite-bases",
+  "questions": [
+    {
+      "id": "q-tech-electricite-bases-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la loi d'Ohm ?",
+      "options": ["P = U × I", "U = R × I", "R = U × I", "I = R × U"],
+      "correct": 1,
+      "explanation": "La loi d'Ohm s'exprime par U = R × I (tension = resistance × intensite)."
+    },
+    {
+      "id": "q-tech-electricite-bases-002",
+      "type": "multiple_choice",
+      "prompt": "Une resistance de 100 Ω est traversee par un courant de 0,5 A. Quelle est la tension ?",
+      "options": ["200 V", "50 V", "0,5 V", "5 V"],
+      "correct": 1,
+      "explanation": "U = R × I = 100 × 0,5 = 50 V."
+    },
+    {
+      "id": "q-tech-electricite-bases-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est l'unite de la resistance electrique ?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correct": 2,
+      "explanation": "L'unite de la resistance est l'Ohm (Ω)."
+    },
+    {
+      "id": "q-tech-electricite-bases-004",
+      "type": "multiple_choice",
+      "prompt": "Que dit la loi des noeuds ?",
+      "options": ["La somme des tensions est nulle", "La somme des courants entrants = somme des courants sortants", "U = R × I", "P = U × I"],
+      "correct": 1,
+      "explanation": "La loi des noeuds stipule que la somme des courants entrant dans un noeud egale la somme des courants sortants."
+    }
+  ]
+}

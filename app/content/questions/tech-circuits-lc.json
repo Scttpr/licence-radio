@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-circuits-lc",
+  "questions": [
+    {
+      "id": "q-tech-circuits-lc-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la frequence de resonance d'un circuit LC ?",
+      "options": ["f = 2π√(LC)", "f = 1/(2π√(LC))", "f = LC", "f = 1/LC"],
+      "correct": 1,
+      "explanation": "La frequence de resonance (loi de Thomson) est f = 1/(2π√(LC))."
+    },
+    {
+      "id": "q-tech-circuits-lc-002",
+      "type": "multiple_choice",
+      "prompt": "A la resonance d'un circuit LC, que peut-on dire de XL et XC ?",
+      "options": ["XL > XC", "XL < XC", "XL = XC", "XL = 0"],
+      "correct": 2,
+      "explanation": "A la resonance, XL = XC (les reactances sont egales)."
+    },
+    {
+      "id": "q-tech-circuits-lc-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule du facteur de qualite Q a la resonance ?",
+      "options": ["Q = R/XL", "Q = XL/R", "Q = R × XL", "Q = XL + R"],
+      "correct": 1,
+      "explanation": "Le facteur de qualite est Q = XL/R = XC/R a la resonance."
+    },
+    {
+      "id": "q-tech-circuits-lc-004",
+      "type": "multiple_choice",
+      "prompt": "Un Q eleve signifie que le circuit est :",
+      "options": ["Moins selectif", "Plus selectif", "Plus puissant", "Moins stable"],
+      "correct": 1,
+      "explanation": "Un facteur Q eleve signifie que le circuit est plus selectif (bande passante etroite)."
+    }
+  ]
+}

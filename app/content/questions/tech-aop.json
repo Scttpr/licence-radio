@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-aop",
+  "questions": [
+    {
+      "id": "q-tech-aop-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule du gain d'un montage inverseur avec ampli-op ?",
+      "options": ["G = R1/R2", "G = -R2/R1", "G = R1+R2", "G = R1×R2"],
+      "correct": 1,
+      "explanation": "Le gain du montage inverseur est G = -R2/R1 (le signe moins indique l'inversion)."
+    },
+    {
+      "id": "q-tech-aop-002",
+      "type": "multiple_choice",
+      "prompt": "Quelle est l'impedance d'entree ideale d'un ampli-op ?",
+      "options": ["Nulle", "50 Ω", "Infinie", "1 kΩ"],
+      "correct": 2,
+      "explanation": "L'impedance d'entree ideale d'un ampli-op est infinie (aucun courant n'entre)."
+    },
+    {
+      "id": "q-tech-aop-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle porte logique donne 1 uniquement si toutes les entrees sont a 1 ?",
+      "options": ["OU", "ET", "NON", "OU EXCLUSIF"],
+      "correct": 1,
+      "explanation": "La porte ET (AND) donne 1 uniquement si toutes les entrees sont a 1."
+    },
+    {
+      "id": "q-tech-aop-004",
+      "type": "multiple_choice",
+      "prompt": "Combien de bits dans un octet ?",
+      "options": ["4", "8", "16", "32"],
+      "correct": 1,
+      "explanation": "Un octet contient 8 bits."
+    },
+    {
+      "id": "q-tech-aop-005",
+      "type": "multiple_choice",
+      "prompt": "Que fait un CAN (ADC) ?",
+      "options": ["Convertit numerique vers analogique", "Convertit analogique vers numerique", "Amplifie le signal", "Filtre le signal"],
+      "correct": 1,
+      "explanation": "Le CAN (Convertisseur Analogique-Numerique) convertit un signal analogique en numerique."
+    },
+    {
+      "id": "q-tech-aop-006",
+      "type": "multiple_choice",
+      "prompt": "Quelle porte logique donne 1 si au moins une entree est a 1 ?",
+      "options": ["ET", "OU", "NON", "NON ET"],
+      "correct": 1,
+      "explanation": "La porte OU (OR) donne 1 si au moins une entree est a 1."
+    },
+    {
+      "id": "q-tech-aop-007",
+      "type": "multiple_choice",
+      "prompt": "Un montage inverseur avec R1=5kΩ et R2=25kΩ a un gain de :",
+      "options": ["5", "-5", "30", "0,2"],
+      "correct": 1,
+      "explanation": "G = -R2/R1 = -25000/5000 = -5."
+    },
+    {
+      "id": "q-tech-aop-008",
+      "type": "multiple_choice",
+      "prompt": "A quoi sert un trigger de Schmitt ?",
+      "options": ["Amplifier", "Eviter les oscillations parasites", "Convertir en numerique", "Filtrer"],
+      "correct": 1,
+      "explanation": "Le trigger de Schmitt evite les oscillations lors des transitions 0/1 grace a son hysteresis."
+    },
+    {
+      "id": "q-tech-aop-009",
+      "type": "multiple_choice",
+      "prompt": "Quelle est l'impedance de sortie ideale d'un ampli-op ?",
+      "options": ["Infinie", "Nulle", "50 Ω", "1 kΩ"],
+      "correct": 1,
+      "explanation": "L'impedance de sortie ideale d'un ampli-op est nulle."
+    },
+    {
+      "id": "q-tech-aop-010",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la valeur decimale du nombre binaire 1010 ?",
+      "options": ["8", "10", "12", "15"],
+      "correct": 1,
+      "explanation": "1010 en binaire = 8+0+2+0 = 10 en decimal."
+    }
+  ]
+}

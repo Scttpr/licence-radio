@@ -1,0 +1,84 @@
+{
+  "segmentId": "reg-frequencies-power",
+  "questions": [
+    {
+      "id": "q-reg-frequencies-power-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la puissance maximale autorisée pour un radioamateur français ?",
+      "options": ["100 W", "250 W", "500 W", "1000 W"],
+      "correct": 2,
+      "explanation": "La puissance maximale est de 500 W crête sur la plupart des bandes HF."
+    },
+    {
+      "id": "q-reg-frequencies-power-002",
+      "type": "multiple_choice",
+      "prompt": "Quelle bande est considérée comme 'la bande des débutants' en HF ?",
+      "options": ["80m (3,5 MHz)", "40m (7 MHz)", "20m (14 MHz)", "10m (28 MHz)"],
+      "correct": 1,
+      "explanation": "La bande des 40m (7 MHz) est idéale pour débuter : propagation fiable jour et nuit."
+    },
+    {
+      "id": "q-reg-frequencies-power-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle fréquence correspond à la bande des 2 mètres ?",
+      "options": ["50 MHz", "144 MHz", "432 MHz", "1296 MHz"],
+      "correct": 1,
+      "explanation": "La bande 2m correspond à 144-146 MHz, très utilisée en FM locale."
+    },
+    {
+      "id": "q-reg-frequencies-power-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle puissance est généralement autorisée en VHF/UHF ?",
+      "options": ["50 W", "100 W", "250 W", "500 W"],
+      "correct": 2,
+      "explanation": "La puissance maximale en VHF (144 MHz) et UHF (432 MHz) est de 250 W."
+    },
+    {
+      "id": "q-reg-frequencies-power-005",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la fréquence d'appel internationale en VHF ?",
+      "options": ["144.000 MHz", "144.300 MHz", "145.500 MHz", "146.000 MHz"],
+      "correct": 2,
+      "explanation": "145.500 MHz est la fréquence d'appel FM en bande 2m."
+    },
+    {
+      "id": "q-reg-frequencies-power-006",
+      "type": "multiple_choice",
+      "prompt": "La bande des 70 cm correspond à quelle fréquence ?",
+      "options": ["144 MHz", "432 MHz", "1296 MHz", "2400 MHz"],
+      "correct": 1,
+      "explanation": "La bande 70 cm = 432-438 MHz, couramment utilisée pour les relais FM."
+    },
+    {
+      "id": "q-reg-frequencies-power-007",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la bande la plus basse accessible aux radioamateurs ?",
+      "options": ["160m (1,8 MHz)", "80m (3,5 MHz)", "40m (7 MHz)", "630m (472 kHz)"],
+      "correct": 3,
+      "explanation": "La bande 630m (472-479 kHz) est la plus basse, mais avec une puissance limitée à 1 W PIRE."
+    },
+    {
+      "id": "q-reg-frequencies-power-008",
+      "type": "true_false",
+      "prompt": "La bande 20m (14 MHz) est excellente pour les liaisons intercontinentales de jour.",
+      "correct": true,
+      "explanation": "La bande 20m est la bande DX par excellence, avec une propagation mondiale de jour."
+    },
+    {
+      "id": "q-reg-frequencies-power-009",
+      "type": "multiple_choice",
+      "prompt": "Quelle portion de la bande 40m est réservée exclusivement à la télégraphie ?",
+      "options": ["7.000-7.035 MHz", "7.000-7.040 MHz", "7.040-7.100 MHz", "7.100-7.200 MHz"],
+      "correct": 1,
+      "explanation": "Le segment 7.000-7.040 MHz est réservé au CW selon le bandplan IARU Région 1."
+    },
+    {
+      "id": "q-reg-frequencies-power-010",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la puissance maximale sur la bande 60m (5 MHz) ?",
+      "options": ["15 W PIRE", "50 W", "100 W", "500 W"],
+      "correct": 0,
+      "explanation": "La bande 60m est soumise à des restrictions particulières : 15 W PIRE max et canaux spécifiques."
+    }
+  ]
+}

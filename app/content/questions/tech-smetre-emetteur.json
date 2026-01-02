@@ -1,0 +1,61 @@
+{
+  "segmentId": "tech-smetre-emetteur",
+  "questions": [
+    {
+      "id": "q-tech-smetre-emetteur-001",
+      "type": "multiple_choice",
+      "prompt": "A quoi correspond S9 sur un S-metre ?",
+      "options": ["5 μV", "50 μV", "500 μV", "5000 μV"],
+      "correct": 1,
+      "explanation": "S9 correspond a 50 μV sur 50 Ω, soit -73 dBm."
+    },
+    {
+      "id": "q-tech-smetre-emetteur-002",
+      "type": "multiple_choice",
+      "prompt": "Quel est l'ecart en dB entre chaque point S ?",
+      "options": ["3 dB", "6 dB", "10 dB", "20 dB"],
+      "correct": 1,
+      "explanation": "Il y a 6 dB d'ecart entre chaque point S."
+    },
+    {
+      "id": "q-tech-smetre-emetteur-003",
+      "type": "multiple_choice",
+      "prompt": "Qu'est-ce qu'un transceiver ?",
+      "options": ["Un emetteur seul", "Un recepteur seul", "Un emetteur-recepteur combine", "Un amplificateur"],
+      "correct": 2,
+      "explanation": "Un transceiver est un emetteur-recepteur combine avec des elements communs."
+    },
+    {
+      "id": "q-tech-smetre-emetteur-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule du bruit thermique ?",
+      "options": ["P = -174 + 10×log(B)", "P = -174 - 10×log(B)", "P = 174 + 10×log(B)", "P = 174 × B"],
+      "correct": 0,
+      "explanation": "Le bruit thermique en dBm est P = -174 + 10×log(B) ou B est la bande passante en Hz."
+    },
+    {
+      "id": "q-tech-smetre-emetteur-005",
+      "type": "multiple_choice",
+      "prompt": "Quel etage est le plus critique pour le facteur de bruit total ?",
+      "options": ["Le dernier", "Le premier", "Celui du milieu", "Tous egalement"],
+      "correct": 1,
+      "explanation": "Le premier etage est le plus critique pour le facteur de bruit total."
+    },
+    {
+      "id": "q-tech-smetre-emetteur-006",
+      "type": "multiple_choice",
+      "prompt": "Que signifie IP3 ?",
+      "options": ["Intermodulation Passive 3", "Point d'Interception du 3eme ordre", "Impedance de Phase 3", "Indice de Puissance 3"],
+      "correct": 1,
+      "explanation": "IP3 = Point d'Interception du 3eme ordre, caracterise la linearite d'un etage."
+    },
+    {
+      "id": "q-tech-smetre-emetteur-007",
+      "type": "multiple_choice",
+      "prompt": "La susceptibilite en CEM designe :",
+      "options": ["La capacite a emettre des perturbations", "La capacite a recevoir des perturbations", "L'immunite aux perturbations", "L'absence de perturbations"],
+      "correct": 1,
+      "explanation": "La susceptibilite designe la sensibilite d'un appareil a recevoir des perturbations."
+    }
+  ]
+}

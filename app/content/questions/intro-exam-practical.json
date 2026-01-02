@@ -1,0 +1,83 @@
+{
+  "segmentId": "intro-exam-practical",
+  "questions": [
+    {
+      "id": "q-intro-exam-practical-001",
+      "type": "multiple_choice",
+      "prompt": "Où s'inscrire pour passer l'examen radioamateur ?",
+      "options": ["À la mairie", "Sur le site de l'ANFR", "À la préfecture", "Dans un radio-club"],
+      "correct": 1,
+      "explanation": "L'inscription se fait en ligne sur le site de l'ANFR (Agence Nationale des Fréquences)."
+    },
+    {
+      "id": "q-intro-exam-practical-002",
+      "type": "multiple_choice",
+      "prompt": "Quel document est obligatoire le jour de l'examen ?",
+      "options": ["Permis de conduire", "Pièce d'identité en cours de validité", "Certificat médical", "Attestation de formation"],
+      "correct": 1,
+      "explanation": "Une pièce d'identité en cours de validité est obligatoire pour passer l'examen."
+    },
+    {
+      "id": "q-intro-exam-practical-003",
+      "type": "multiple_choice",
+      "prompt": "Quel matériel est autorisé pendant l'examen ?",
+      "options": ["Calculatrice scientifique", "Téléphone en mode avion", "Calculatrice simple non programmable", "Aucun matériel électronique"],
+      "correct": 2,
+      "explanation": "Seule une calculatrice simple non programmable est autorisée pendant l'examen."
+    },
+    {
+      "id": "q-intro-exam-practical-004",
+      "type": "multiple_choice",
+      "prompt": "Que se passe-t-il si vous échouez à une seule épreuve ?",
+      "options": ["Vous devez tout repasser", "Vous gardez la note de l'épreuve réussie pendant 1 an", "Vous êtes éliminé définitivement", "Vous pouvez repasser uniquement l'épreuve échouée le même jour"],
+      "correct": 1,
+      "explanation": "En cas d'échec partiel, la note de l'épreuve réussie est conservée pendant 1 an."
+    },
+    {
+      "id": "q-intro-exam-practical-005",
+      "type": "multiple_choice",
+      "prompt": "Comment se déroule l'examen ?",
+      "options": ["Sur papier uniquement", "Sur ordinateur", "À l'oral", "En manipulant du matériel radio"],
+      "correct": 1,
+      "explanation": "L'examen se passe sur ordinateur, avec des QCM à choix unique."
+    },
+    {
+      "id": "q-intro-exam-practical-006",
+      "type": "true_false",
+      "prompt": "On peut utiliser son propre ordinateur pour passer l'examen.",
+      "correct": false,
+      "explanation": "L'examen se passe sur les ordinateurs fournis par l'ANFR dans les centres d'examen."
+    },
+    {
+      "id": "q-intro-exam-practical-007",
+      "type": "multiple_choice",
+      "prompt": "Combien coûte l'inscription à l'examen ?",
+      "options": ["Gratuit", "30 €", "50 €", "100 €"],
+      "correct": 0,
+      "explanation": "L'inscription à l'examen est gratuite."
+    },
+    {
+      "id": "q-intro-exam-practical-008",
+      "type": "multiple_choice",
+      "prompt": "Que faire en cas de problème technique pendant l'examen ?",
+      "options": ["Continuer sans rien dire", "Lever la main et attendre", "Prévenir immédiatement le surveillant", "Redémarrer l'ordinateur"],
+      "correct": 2,
+      "explanation": "Il faut prévenir immédiatement le surveillant. Aucune contestation n'est possible après la fin du temps."
+    },
+    {
+      "id": "q-intro-exam-practical-009",
+      "type": "multiple_choice",
+      "prompt": "Quand reçoit-on les résultats de l'examen ?",
+      "options": ["Immédiatement à l'écran", "Par courrier sous 1 semaine", "Par email sous 1 mois", "Sur le site ANFR sous 2 semaines"],
+      "correct": 0,
+      "explanation": "Les résultats s'affichent à l'écran immédiatement après la fin de l'épreuve."
+    },
+    {
+      "id": "q-intro-exam-practical-010",
+      "type": "true_false",
+      "prompt": "Il faut être majeur pour passer l'examen radioamateur.",
+      "correct": false,
+      "explanation": "Il n'y a pas d'âge minimum pour passer l'examen. Les mineurs peuvent devenir radioamateurs."
+    }
+  ]
+}

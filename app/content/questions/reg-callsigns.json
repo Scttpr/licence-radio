@@ -1,0 +1,84 @@
+{
+  "segmentId": "reg-callsigns",
+  "questions": [
+    {
+      "id": "q-reg-callsigns-001",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le chiffre '0' dans un indicatif français (ex: F0ABC) ?",
+      "options": ["Radio-club", "Nouveau titulaire", "Ancien Novice (ex-classe 3)", "Station temporaire"],
+      "correct": 2,
+      "explanation": "F0 = Ancien titulaire de classe 3 (Novice), maintenant au même niveau que tous."
+    },
+    {
+      "id": "q-reg-callsigns-002",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le suffixe /P dans un indicatif ?",
+      "options": ["Puissance réduite", "Portable (emplacement temporaire)", "Professionnel", "Prioritaire"],
+      "correct": 1,
+      "explanation": "/P = Portable, station en emplacement temporaire (non fixe, non mobile)."
+    },
+    {
+      "id": "q-reg-callsigns-003",
+      "type": "multiple_choice",
+      "prompt": "Quel préfixe désigne la Guadeloupe ?",
+      "options": ["FM", "FG", "FR", "FK"],
+      "correct": 1,
+      "explanation": "FG = Guadeloupe. FM = Martinique, FR = Réunion, FK = Nouvelle-Calédonie."
+    },
+    {
+      "id": "q-reg-callsigns-004",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le suffixe /MM ?",
+      "options": ["Mobile Montagne", "Maritime Mobile (>12 milles)", "Multi-Mode", "Mobile Métropolitain"],
+      "correct": 1,
+      "explanation": "/MM = Maritime Mobile, station à plus de 12 milles nautiques des côtes."
+    },
+    {
+      "id": "q-reg-callsigns-005",
+      "type": "multiple_choice",
+      "prompt": "Les indicatifs F6Kxx sont attribués à :",
+      "options": ["Les nouveaux opérateurs", "Les radio-clubs", "Les stations temporaires", "Les opérateurs étrangers"],
+      "correct": 1,
+      "explanation": "F6Kxx sont les indicatifs réservés aux radio-clubs en France."
+    },
+    {
+      "id": "q-reg-callsigns-006",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le suffixe /M ?",
+      "options": ["Maritime", "Mobile (véhicule)", "Montagne", "Métropolitain"],
+      "correct": 1,
+      "explanation": "/M = Mobile, station émettant depuis un véhicule en mouvement."
+    },
+    {
+      "id": "q-reg-callsigns-007",
+      "type": "multiple_choice",
+      "prompt": "Quel préfixe désigne la Martinique ?",
+      "options": ["FG", "FM", "FR", "FY"],
+      "correct": 1,
+      "explanation": "FM = Martinique. FG = Guadeloupe, FR = Réunion, FY = Guyane."
+    },
+    {
+      "id": "q-reg-callsigns-008",
+      "type": "true_false",
+      "prompt": "Un indicatif temporaire (TM, TP) peut être attribué pour un événement spécial.",
+      "correct": true,
+      "explanation": "Les préfixes TM et TP sont utilisés pour des indicatifs temporaires lors d'événements spéciaux."
+    },
+    {
+      "id": "q-reg-callsigns-009",
+      "type": "multiple_choice",
+      "prompt": "Que signifie le suffixe /AM ?",
+      "options": ["Amplitude Modulée", "Aéronautique Mobile", "Amateur Mobile", "Antenne Mobile"],
+      "correct": 1,
+      "explanation": "/AM = Aéronautique Mobile, station émettant depuis un aéronef."
+    },
+    {
+      "id": "q-reg-callsigns-010",
+      "type": "multiple_choice",
+      "prompt": "Quel préfixe désigne un radioamateur français en métropole ?",
+      "options": ["F", "G", "I", "DL"],
+      "correct": 0,
+      "explanation": "F = France métropolitaine. G = Royaume-Uni, I = Italie, DL = Allemagne."
+    }
+  ]
+}

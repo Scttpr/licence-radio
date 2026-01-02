@@ -2,3 +2,9 @@
 book/
 .claude
 cours_annemasse
+
+# Node
+node_modules/
+
+# Build output
+build/output/

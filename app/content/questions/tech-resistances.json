@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-resistances",
+  "questions": [
+    {
+      "id": "q-tech-resistances-001",
+      "type": "multiple_choice",
+      "prompt": "Deux resistances de 100 Ω en serie donnent une resistance totale de :",
+      "options": ["50 Ω", "100 Ω", "200 Ω", "10000 Ω"],
+      "correct": 2,
+      "explanation": "En serie, les resistances s'additionnent : Rtotal = 100 + 100 = 200 Ω."
+    },
+    {
+      "id": "q-tech-resistances-002",
+      "type": "multiple_choice",
+      "prompt": "Deux resistances de 100 Ω en parallele donnent une resistance totale de :",
+      "options": ["200 Ω", "100 Ω", "50 Ω", "25 Ω"],
+      "correct": 2,
+      "explanation": "En parallele : Rtotal = (R1 × R2) / (R1 + R2) = (100 × 100) / (100 + 100) = 50 Ω."
+    },
+    {
+      "id": "q-tech-resistances-003",
+      "type": "multiple_choice",
+      "prompt": "Trois resistances de 30 Ω en serie donnent :",
+      "options": ["10 Ω", "30 Ω", "60 Ω", "90 Ω"],
+      "correct": 3,
+      "explanation": "En serie : Rtotal = 30 + 30 + 30 = 90 Ω."
+    },
+    {
+      "id": "q-tech-resistances-004",
+      "type": "multiple_choice",
+      "prompt": "Trois resistances identiques de 90 Ω en parallele donnent :",
+      "options": ["270 Ω", "90 Ω", "30 Ω", "10 Ω"],
+      "correct": 2,
+      "explanation": "Pour N resistances identiques en parallele : Rtotal = R/N = 90/3 = 30 Ω."
+    }
+  ]
+}

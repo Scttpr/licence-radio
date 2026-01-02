@@ -1,0 +1,61 @@
+{
+  "segmentId": "tech-oscillateurs-melangeurs",
+  "questions": [
+    {
+      "id": "q-tech-oscillateurs-melangeurs-001",
+      "type": "multiple_choice",
+      "prompt": "Un melangeur recoit 5 MHz et 8 MHz. Quelles sont les frequences de sortie ?",
+      "options": ["13 MHz et 3 MHz", "40 MHz et 1,6 MHz", "5 MHz et 8 MHz", "6,5 MHz uniquement"],
+      "correct": 0,
+      "explanation": "Le melangeur produit F1+F2 = 13 MHz et F1-F2 = 3 MHz."
+    },
+    {
+      "id": "q-tech-oscillateurs-melangeurs-002",
+      "type": "multiple_choice",
+      "prompt": "Quel type d'oscillateur utilise un quartz ?",
+      "options": ["VFO", "VCO", "VXO", "DDS"],
+      "correct": 2,
+      "explanation": "Le VXO (Variable Crystal Oscillator) utilise un quartz."
+    },
+    {
+      "id": "q-tech-oscillateurs-melangeurs-003",
+      "type": "multiple_choice",
+      "prompt": "Quel oscillateur utilise une diode Varicap ?",
+      "options": ["VXO", "VFO", "VCO", "PLL"],
+      "correct": 2,
+      "explanation": "Le VCO (Voltage Controlled Oscillator) utilise une diode Varicap."
+    },
+    {
+      "id": "q-tech-oscillateurs-melangeurs-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la frequence maximale pratique d'un oscillateur a quartz ?",
+      "options": ["10 MHz", "30 MHz", "100 MHz", "1 GHz"],
+      "correct": 1,
+      "explanation": "La limite pratique est 30 MHz en raison de l'epaisseur minimale du quartz."
+    },
+    {
+      "id": "q-tech-oscillateurs-melangeurs-005",
+      "type": "multiple_choice",
+      "prompt": "Que devient l'excursion FM apres un doubleur de frequence ?",
+      "options": ["Elle reste identique", "Elle double", "Elle diminue de moitie", "Elle s'annule"],
+      "correct": 1,
+      "explanation": "L'excursion FM est multipliee par le facteur de multiplication (ex: 3 kHz × 2 = 6 kHz)."
+    },
+    {
+      "id": "q-tech-oscillateurs-melangeurs-006",
+      "type": "multiple_choice",
+      "prompt": "Selon le theoreme de Shannon, la frequence d'echantillonnage doit etre :",
+      "options": ["Egale a la frequence du signal", "Au moins le double de la frequence du signal", "La moitie de la frequence du signal", "10 fois la frequence du signal"],
+      "correct": 1,
+      "explanation": "Theoreme de Shannon-Nyquist : frequence max = frequence d'echantillonnage / 2."
+    },
+    {
+      "id": "q-tech-oscillateurs-melangeurs-007",
+      "type": "multiple_choice",
+      "prompt": "Que signifie PLL ?",
+      "options": ["Power Level Limiter", "Phase Lock Loop", "Pulse Length Loader", "Primary Line Link"],
+      "correct": 1,
+      "explanation": "PLL = Phase Lock Loop (Boucle a verrouillage de phase)."
+    }
+  ]
+}

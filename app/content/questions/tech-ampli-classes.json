@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-ampli-classes",
+  "questions": [
+    {
+      "id": "q-tech-ampli-classes-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle classe d'amplification est interdite pour les signaux AM et BLU ?",
+      "options": ["Classe A", "Classe B", "Classe C", "Classe D"],
+      "correct": 2,
+      "explanation": "La classe C est a prohiber pour les signaux modules en amplitude (AM, BLU)."
+    },
+    {
+      "id": "q-tech-ampli-classes-002",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la classe d'amplification la plus courante ?",
+      "options": ["Classe B", "Classe C", "Classe A", "Classe D"],
+      "correct": 2,
+      "explanation": "La classe A est la plus couramment utilisee."
+    },
+    {
+      "id": "q-tech-ampli-classes-003",
+      "type": "multiple_choice",
+      "prompt": "A quoi sert une bobine de choc ?",
+      "options": ["Amplifier le signal", "Arreter les courants HF", "Filtrer les basses frequences", "Stabiliser la tension"],
+      "correct": 1,
+      "explanation": "La bobine de choc arrete les courants haute frequence."
+    },
+    {
+      "id": "q-tech-ampli-classes-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle classe d'amplificateur a le meilleur rendement ?",
+      "options": ["Classe A", "Classe B", "Classe C", "Classe AB"],
+      "correct": 2,
+      "explanation": "La classe C a le meilleur rendement (jusqu'a 80%) mais deforme le signal."
+    }
+  ]
+}

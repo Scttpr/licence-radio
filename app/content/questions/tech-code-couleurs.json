@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-code-couleurs",
+  "questions": [
+    {
+      "id": "q-tech-code-couleurs-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle couleur represente le chiffre 2 dans le code des couleurs ?",
+      "options": ["Marron", "Rouge", "Orange", "Noir"],
+      "correct": 1,
+      "explanation": "Rouge = 2 dans le code des couleurs des resistances."
+    },
+    {
+      "id": "q-tech-code-couleurs-002",
+      "type": "multiple_choice",
+      "prompt": "Une resistance Rouge-Violet-Orange vaut :",
+      "options": ["2,7 kΩ", "27 kΩ", "270 kΩ", "27 Ω"],
+      "correct": 1,
+      "explanation": "Rouge=2, Violet=7, Orange=×1000 → 27 × 1000 = 27 kΩ."
+    },
+    {
+      "id": "q-tech-code-couleurs-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle couleur represente le multiplicateur ×1000 ?",
+      "options": ["Rouge", "Orange", "Jaune", "Vert"],
+      "correct": 1,
+      "explanation": "Orange = 3 zeros = ×1000."
+    },
+    {
+      "id": "q-tech-code-couleurs-004",
+      "type": "multiple_choice",
+      "prompt": "Une resistance Marron-Noir-Rouge vaut :",
+      "options": ["10 Ω", "100 Ω", "1 kΩ", "10 kΩ"],
+      "correct": 2,
+      "explanation": "Marron=1, Noir=0, Rouge=×100 → 10 × 100 = 1000 Ω = 1 kΩ."
+    }
+  ]
+}

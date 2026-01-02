@@ -1,0 +1,83 @@
+{
+  "segmentId": "intro-exam-strategy",
+  "questions": [
+    {
+      "id": "q-intro-exam-strategy-001",
+      "type": "multiple_choice",
+      "prompt": "Quel est le taux de réussite approximatif à l'examen radioamateur ?",
+      "options": ["50%", "65%", "80%", "95%"],
+      "correct": 2,
+      "explanation": "Le taux de réussite est d'environ 80% - l'examen est accessible avec une bonne préparation."
+    },
+    {
+      "id": "q-intro-exam-strategy-002",
+      "type": "multiple_choice",
+      "prompt": "Pour réussir confortablement, combien de bonnes réponses faut-il viser par épreuve ?",
+      "options": ["10/20 minimum", "12-13/20", "15/20", "18/20"],
+      "correct": 1,
+      "explanation": "Viser 12-13/20 donne une marge de sécurité tout en restant réaliste."
+    },
+    {
+      "id": "q-intro-exam-strategy-003",
+      "type": "multiple_choice",
+      "prompt": "Dans quel ordre est-il recommandé d'étudier les matières ?",
+      "options": ["Technique puis Réglementation", "Réglementation puis Technique", "Les deux en même temps", "Peu importe l'ordre"],
+      "correct": 0,
+      "explanation": "Commencer par la Technique puis la Réglementation est recommandé car les bases techniques aident à comprendre certaines règles."
+    },
+    {
+      "id": "q-intro-exam-strategy-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle méthode d'apprentissage est la plus efficace pour l'examen ?",
+      "options": ["Relire le cours plusieurs fois", "Regarder des vidéos", "S'entraîner avec des QCM", "Écouter le trafic radio"],
+      "correct": 2,
+      "explanation": "L'entraînement avec des QCM (rappel actif) est plus efficace que la relecture passive."
+    },
+    {
+      "id": "q-intro-exam-strategy-005",
+      "type": "multiple_choice",
+      "prompt": "Que faire face à une question difficile pendant l'examen ?",
+      "options": ["Rester bloqué dessus jusqu'à trouver", "Passer et revenir plus tard si possible", "Répondre au hasard immédiatement", "Demander de l'aide au surveillant"],
+      "correct": 1,
+      "explanation": "Ne pas rester bloqué : passer à la suite et revenir si le temps le permet."
+    },
+    {
+      "id": "q-intro-exam-strategy-006",
+      "type": "true_false",
+      "prompt": "La répétition espacée est plus efficace que de tout réviser la veille de l'examen.",
+      "correct": true,
+      "explanation": "La répétition espacée ancre les connaissances dans la mémoire à long terme, contrairement au bachotage de dernière minute."
+    },
+    {
+      "id": "q-intro-exam-strategy-007",
+      "type": "multiple_choice",
+      "prompt": "Combien de questions faut-il maîtriser au minimum pour avoir 10/20 statistiquement ?",
+      "options": ["5 questions sûres", "7 questions sûres", "10 questions sûres", "15 questions sûres"],
+      "correct": 1,
+      "explanation": "Avec 7 questions sûres + hasard sur les 13 autres, on obtient statistiquement ~10,25/20."
+    },
+    {
+      "id": "q-intro-exam-strategy-008",
+      "type": "multiple_choice",
+      "prompt": "Pourquoi est-il conseillé de commencer par la technique ?",
+      "options": ["Elle est plus facile", "Elle prend moins de temps", "Elle aide à comprendre la réglementation", "Elle rapporte plus de points"],
+      "correct": 2,
+      "explanation": "Les bases techniques (dB, puissance, fréquences) aident à comprendre pourquoi certaines règles existent."
+    },
+    {
+      "id": "q-intro-exam-strategy-009",
+      "type": "true_false",
+      "prompt": "Il est préférable d'étudier un peu chaque jour plutôt que beaucoup en une fois.",
+      "correct": true,
+      "explanation": "La régularité et la répétition espacée sont plus efficaces que les sessions intensives ponctuelles."
+    },
+    {
+      "id": "q-intro-exam-strategy-010",
+      "type": "multiple_choice",
+      "prompt": "Quel pourcentage du programme faut-il maîtriser pour être à l'aise ?",
+      "options": ["50%", "65%", "80%", "100%"],
+      "correct": 1,
+      "explanation": "Maîtriser 65% du programme (13/20) offre une marge confortable pour réussir."
+    }
+  ]
+}

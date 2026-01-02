@@ -1,4 +1,4 @@
-name: Deploy mdBook to GitHub Pages
+name: Deploy Learning App to GitHub Pages
 
 on:
   push:
@@ -22,21 +22,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
-        with:
-          mdbook-version: 'latest'
-
-      - name: Build book
-        run: mdbook build
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './book'
+          path: './app'
 
   deploy:
     environment:

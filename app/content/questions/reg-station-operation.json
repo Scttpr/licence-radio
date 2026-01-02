@@ -1,0 +1,83 @@
+{
+  "segmentId": "reg-station-operation",
+  "questions": [
+    {
+      "id": "q-reg-station-operation-001",
+      "type": "multiple_choice",
+      "prompt": "Combien de temps faut-il conserver le journal de bord (carnet de trafic) ?",
+      "options": ["6 mois", "1 an", "3 ans", "5 ans"],
+      "correct": 1,
+      "explanation": "Le journal de bord doit être conservé 1 an minimum après la dernière inscription."
+    },
+    {
+      "id": "q-reg-station-operation-002",
+      "type": "multiple_choice",
+      "prompt": "Lequel de ces sujets est INTERDIT en communication radioamateur ?",
+      "options": ["Météorologie", "Vie associative", "Communications commerciales", "Astronomie"],
+      "correct": 2,
+      "explanation": "Les communications commerciales sont interdites. L'activité amateur doit être désintéressée."
+    },
+    {
+      "id": "q-reg-station-operation-003",
+      "type": "multiple_choice",
+      "prompt": "Que faut-il vérifier avant d'émettre sur une fréquence ?",
+      "options": ["L'heure UTC", "Que la fréquence est libre (QRL?)", "La météo", "Le niveau de batterie"],
+      "correct": 1,
+      "explanation": "Toujours demander 'QRL?' ou écouter avant d'émettre pour ne pas brouiller."
+    },
+    {
+      "id": "q-reg-station-operation-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle sanction maximale pour usurpation d'indicatif ?",
+      "options": ["Amende de 1 000 €", "6 mois d'emprisonnement", "1 an d'emprisonnement et 30 000 € d'amende", "Révocation simple"],
+      "correct": 2,
+      "explanation": "L'usurpation d'indicatif peut entraîner jusqu'à 1 an de prison et 30 000 € d'amende."
+    },
+    {
+      "id": "q-reg-station-operation-005",
+      "type": "true_false",
+      "prompt": "Il est autorisé de coder les transmissions radioamateur pour protéger la vie privée.",
+      "correct": false,
+      "explanation": "Le codage des transmissions est interdit - les communications doivent être en clair."
+    },
+    {
+      "id": "q-reg-station-operation-006",
+      "type": "multiple_choice",
+      "prompt": "À quelle fréquence minimale faut-il donner son indicatif ?",
+      "options": ["Au début du QSO", "Toutes les 5 minutes", "Toutes les 10 minutes et en fin de QSO", "Une fois par heure"],
+      "correct": 2,
+      "explanation": "L'indicatif doit être donné au début, à la fin, et au moins toutes les 10 minutes."
+    },
+    {
+      "id": "q-reg-station-operation-007",
+      "type": "multiple_choice",
+      "prompt": "Que faire si l'on reçoit un appel de détresse ?",
+      "options": ["Ignorer si ce n'est pas pour nous", "Cesser immédiatement d'émettre et écouter", "Changer de fréquence", "Répondre uniquement en CW"],
+      "correct": 1,
+      "explanation": "En cas de détresse, cesser d'émettre, écouter et prêter assistance si possible."
+    },
+    {
+      "id": "q-reg-station-operation-008",
+      "type": "true_false",
+      "prompt": "Un radioamateur peut transmettre des messages pour le compte de tiers.",
+      "correct": false,
+      "explanation": "Le trafic pour compte de tiers est interdit, sauf en cas de détresse ou pour des associations agréées."
+    },
+    {
+      "id": "q-reg-station-operation-009",
+      "type": "multiple_choice",
+      "prompt": "Quelles informations doit contenir le journal de bord ?",
+      "options": ["Uniquement les indicatifs contactés", "Date, heure UTC, fréquence, mode, indicatif, rapport", "Seulement les contacts DX", "Les numéros de série des équipements"],
+      "correct": 1,
+      "explanation": "Le journal doit contenir : date, heure UTC, fréquence, mode, indicatifs, rapports RST."
+    },
+    {
+      "id": "q-reg-station-operation-010",
+      "type": "multiple_choice",
+      "prompt": "Lequel de ces contenus est autorisé en radiotéléphonie amateur ?",
+      "options": ["Publicité commerciale", "Propos politiques partisans", "Discussions techniques sur les antennes", "Messages chiffrés"],
+      "correct": 2,
+      "explanation": "Les discussions techniques (antennes, équipements, propagation) sont le cœur de l'activité amateur."
+    }
+  ]
+}

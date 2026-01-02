@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-recepteurs",
+  "questions": [
+    {
+      "id": "q-tech-recepteurs-001",
+      "type": "multiple_choice",
+      "prompt": "Qu'est-ce que la frequence intermediaire (FI) ?",
+      "options": ["La frequence d'emission", "Une frequence fixe obtenue par melange", "La frequence de l'antenne", "La frequence du micro"],
+      "correct": 1,
+      "explanation": "La FI est une frequence fixe obtenue par melange entre la HF recue et l'oscillateur local."
+    },
+    {
+      "id": "q-tech-recepteurs-002",
+      "type": "multiple_choice",
+      "prompt": "Qu'est-ce que la frequence image ?",
+      "options": ["La frequence de l'antenne", "Une frequence parasite qui donne la meme FI", "La frequence de sortie", "La frequence du filtre"],
+      "correct": 1,
+      "explanation": "La frequence image est une frequence parasite qui produit la meme FI que la frequence desiree."
+    },
+    {
+      "id": "q-tech-recepteurs-003",
+      "type": "multiple_choice",
+      "prompt": "Dans un recepteur superhetererodyne, la FI permet d'ameliorer :",
+      "options": ["La puissance", "La selectivite et la sensibilite", "Le bruit", "La distorsion"],
+      "correct": 1,
+      "explanation": "La FI fixe permet d'utiliser des filtres optimises pour une meilleure selectivite et sensibilite."
+    },
+    {
+      "id": "q-tech-recepteurs-004",
+      "type": "multiple_choice",
+      "prompt": "Comment eviter les problemes de frequence image ?",
+      "options": ["Diminuer la FI", "Augmenter la FI ou utiliser la double conversion", "Retirer le melangeur", "Augmenter la puissance"],
+      "correct": 1,
+      "explanation": "Une FI elevee ou la double conversion permettent de mieux rejeter la frequence image."
+    }
+  ]
+}

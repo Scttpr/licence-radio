@@ -1,0 +1,85 @@
+{
+  "segmentId": "reg-q-codes",
+  "questions": [
+    {
+      "id": "q-reg-q-codes-001",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QTH ?",
+      "options": ["Quelle heure est-il ?", "Quelle est votre position ?", "Puis-je transmettre ?", "Êtes-vous brouillé ?"],
+      "correct": 1,
+      "explanation": "QTH = Position/Localisation. Moyen mnémotechnique : Q The House."
+    },
+    {
+      "id": "q-reg-q-codes-002",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QRP ?",
+      "options": ["Augmenter la puissance", "Diminuer la puissance", "Changer de fréquence", "Cesser la transmission"],
+      "correct": 1,
+      "explanation": "QRP = Diminuer la puissance. Mnémotechnique : Réduire Puissance."
+    },
+    {
+      "id": "q-reg-q-codes-003",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QSY ?",
+      "options": ["Accusé de réception", "Changer de fréquence", "Qui m'appelle ?", "Ma position est..."],
+      "correct": 1,
+      "explanation": "QSY = Changer de fréquence. 'QSY 145.500' = passez sur 145.500 MHz."
+    },
+    {
+      "id": "q-reg-q-codes-004",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QRM ?",
+      "options": ["Parasites atmosphériques", "Brouillages (interférences)", "Force du signal", "Fin de transmission"],
+      "correct": 1,
+      "explanation": "QRM = Brouillages/interférences d'origine humaine. QRN = parasites naturels."
+    },
+    {
+      "id": "q-reg-q-codes-005",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QSL ?",
+      "options": ["Je vous reçois mal", "Je confirme réception", "Veuillez répéter", "Transmission terminée"],
+      "correct": 1,
+      "explanation": "QSL = Je confirme réception. Une 'carte QSL' confirme un contact radio."
+    },
+    {
+      "id": "q-reg-q-codes-006",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QRZ ?",
+      "options": ["Qui m'appelle ?", "Quelle est la fréquence ?", "Cesser la transmission", "Augmenter la puissance"],
+      "correct": 0,
+      "explanation": "QRZ? = Qui m'appelle ? Utilisé quand on n'a pas compris l'indicatif du correspondant."
+    },
+    {
+      "id": "q-reg-q-codes-007",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QRO ?",
+      "options": ["Diminuer la puissance", "Augmenter la puissance", "Cesser la transmission", "Changer de fréquence"],
+      "correct": 1,
+      "explanation": "QRO = Augmenter la puissance (opposé de QRP)."
+    },
+    {
+      "id": "q-reg-q-codes-008",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QRN ?",
+      "options": ["Brouillages humains", "Parasites atmosphériques naturels", "Signal fort", "Fréquence occupée"],
+      "correct": 1,
+      "explanation": "QRN = Parasites atmosphériques (naturels : orage, etc.). QRM = brouillages humains."
+    },
+    {
+      "id": "q-reg-q-codes-009",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QRT ?",
+      "options": ["Je cesse la transmission", "J'écoute sur cette fréquence", "Je change de fréquence", "Je suis prêt à recevoir"],
+      "correct": 0,
+      "explanation": "QRT = Je cesse la transmission / Fin de trafic."
+    },
+    {
+      "id": "q-reg-q-codes-010",
+      "type": "multiple_choice",
+      "prompt": "Que signifie QSO ?",
+      "options": ["Appel général", "Communication radio (contact)", "Indicatif spécial", "Signal faible"],
+      "correct": 1,
+      "explanation": "QSO = Communication radio, contact établi avec un autre opérateur."
+    }
+  ]
+}

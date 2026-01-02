@@ -1,0 +1,144 @@
+{
+  "version": "2.1.0",
+  "generatedAt": "2026-01-02T20:00:00.000Z",
+  "totalSegments": 32,
+  "sections": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "order": 0,
+      "lessons": [
+        {
+          "id": "intro-exam",
+          "title": "L'examen radioamateur",
+          "order": 0,
+          "segments": [
+            { "id": "intro-exam-structure", "title": "Structure de l'examen", "order": 0 },
+            { "id": "intro-exam-practical", "title": "Conseils pratiques", "order": 1 },
+            { "id": "intro-exam-strategy", "title": "Stratégie de révision", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technique-bases",
+      "title": "Technique - Bases d'électricité",
+      "order": 1,
+      "lessons": [
+        {
+          "id": "tech-electricite",
+          "title": "Électricité fondamentale",
+          "order": 0,
+          "segments": [
+            { "id": "tech-maths", "title": "Rappels mathématiques", "order": 0 },
+            { "id": "tech-electricite-bases", "title": "Bases et loi d'Ohm", "order": 1 },
+            { "id": "tech-puissance", "title": "Puissance et énergie", "order": 2 },
+            { "id": "tech-resistances", "title": "Groupements de résistances", "order": 3 },
+            { "id": "tech-code-couleurs", "title": "Code couleurs", "order": 4 }
+          ]
+        },
+        {
+          "id": "tech-alternatif",
+          "title": "Courant alternatif",
+          "order": 1,
+          "segments": [
+            { "id": "tech-courants-alternatifs", "title": "Courants alternatifs", "order": 0 },
+            { "id": "tech-transformateurs", "title": "Transformateurs et piles", "order": 1 },
+            { "id": "tech-decibels", "title": "Les décibels", "order": 2 },
+            { "id": "tech-circuits-lc", "title": "Circuits LC", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technique-composants",
+      "title": "Technique - Composants actifs",
+      "order": 2,
+      "lessons": [
+        {
+          "id": "tech-semiconducteurs",
+          "title": "Semi-conducteurs",
+          "order": 0,
+          "segments": [
+            { "id": "tech-diodes", "title": "Diodes", "order": 0 },
+            { "id": "tech-transistors-bipolaires", "title": "Transistors bipolaires", "order": 1 },
+            { "id": "tech-transistors-montages", "title": "Montages et FET", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technique-radio",
+      "title": "Technique - Radioélectricité",
+      "order": 3,
+      "lessons": [
+        {
+          "id": "tech-circuits",
+          "title": "Circuits et amplificateurs",
+          "order": 0,
+          "segments": [
+            { "id": "tech-ampli-classes", "title": "Classes d'amplificateurs", "order": 0 },
+            { "id": "tech-oscillateurs-melangeurs", "title": "Oscillateurs et mélangeurs", "order": 1 },
+            { "id": "tech-aop", "title": "Ampli-op et logique", "order": 2 }
+          ]
+        },
+        {
+          "id": "tech-propagation",
+          "title": "Propagation et antennes",
+          "order": 1,
+          "segments": [
+            { "id": "tech-antennes", "title": "Antennes et propagation", "order": 0 },
+            { "id": "tech-lignes", "title": "Lignes de transmission", "order": 1 }
+          ]
+        },
+        {
+          "id": "tech-systemes",
+          "title": "Systèmes radio",
+          "order": 2,
+          "segments": [
+            { "id": "tech-recepteurs", "title": "Récepteur superhétérodyne", "order": 0 },
+            { "id": "tech-smetre-emetteur", "title": "S-mètre et émetteur", "order": 1 },
+            { "id": "tech-modulations", "title": "Types de modulations", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reglementation",
+      "title": "Réglementation",
+      "order": 4,
+      "lessons": [
+        {
+          "id": "reg-organismes",
+          "title": "Organismes et classes",
+          "order": 0,
+          "segments": [
+            { "id": "reg-regulatory-bodies", "title": "Organismes de régulation", "order": 0 },
+            { "id": "reg-emission-classes", "title": "Classes d'émission", "order": 1 },
+            { "id": "reg-frequencies-power", "title": "Fréquences et puissances", "order": 2 }
+          ]
+        },
+        {
+          "id": "reg-communication",
+          "title": "Communication radio",
+          "order": 1,
+          "segments": [
+            { "id": "reg-phonetic-alphabet", "title": "Alphabet phonétique", "order": 0 },
+            { "id": "reg-q-codes", "title": "Code Q", "order": 1 },
+            { "id": "reg-callsigns", "title": "Indicatifs d'appel", "order": 2 }
+          ]
+        },
+        {
+          "id": "reg-exploitation",
+          "title": "Exploitation et sécurité",
+          "order": 2,
+          "segments": [
+            { "id": "reg-station-operation", "title": "Exploitation de station", "order": 0 },
+            { "id": "reg-tech-decibels", "title": "Décibels (réglementation)", "order": 1 },
+            { "id": "reg-tech-safety", "title": "Sécurité électrique", "order": 2 }
+          ]
+        }
+      ]
+    }
+  ]
+}

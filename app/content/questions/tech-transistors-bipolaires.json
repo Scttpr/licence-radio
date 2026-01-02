@@ -1,0 +1,53 @@
+{
+  "segmentId": "tech-transistors-bipolaires",
+  "questions": [
+    {
+      "id": "q-tech-transistors-bipolaires-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule du gain d'un transistor bipolaire ?",
+      "options": ["Ic = Ib / β", "Ic = β × Ib", "Ib = β × Ic", "β = Ib × Ic"],
+      "correct": 1,
+      "explanation": "Le courant collecteur est Ic = β × Ib, ou β est le gain du transistor."
+    },
+    {
+      "id": "q-tech-transistors-bipolaires-002",
+      "type": "multiple_choice",
+      "prompt": "Quels sont les trois electrodes d'un transistor bipolaire ?",
+      "options": ["Source, Drain, Porte", "Emetteur, Base, Collecteur", "Anode, Cathode, Grille", "Entree, Sortie, Masse"],
+      "correct": 1,
+      "explanation": "Un transistor bipolaire possede un Emetteur, une Base et un Collecteur."
+    },
+    {
+      "id": "q-tech-transistors-bipolaires-003",
+      "type": "multiple_choice",
+      "prompt": "Comment varie le gain d'un transistor avec la temperature ?",
+      "options": ["Il diminue", "Il augmente", "Il reste constant", "Il s'annule"],
+      "correct": 1,
+      "explanation": "Le gain augmente avec la temperature, ce qui peut causer un emballement thermique."
+    },
+    {
+      "id": "q-tech-transistors-bipolaires-004",
+      "type": "multiple_choice",
+      "prompt": "Un transistor avec β = 100 et Ib = 200 μA a un courant collecteur de :",
+      "options": ["2 mA", "20 mA", "200 mA", "0,5 mA"],
+      "correct": 1,
+      "explanation": "Ic = β × Ib = 100 × 200 μA = 20 000 μA = 20 mA."
+    },
+    {
+      "id": "q-tech-transistors-bipolaires-005",
+      "type": "multiple_choice",
+      "prompt": "Combien d'electrodes possede une pentode ?",
+      "options": ["3", "4", "5", "6"],
+      "correct": 2,
+      "explanation": "La pentode possede 5 electrodes : cathode, grille, ecran, suppresseuse et anode."
+    },
+    {
+      "id": "q-tech-transistors-bipolaires-006",
+      "type": "multiple_choice",
+      "prompt": "Comment varie le gain d'un transistor avec la frequence ?",
+      "options": ["Il augmente", "Il diminue", "Il reste constant", "Il double"],
+      "correct": 1,
+      "explanation": "Le gain d'un transistor diminue quand la frequence augmente."
+    }
+  ]
+}

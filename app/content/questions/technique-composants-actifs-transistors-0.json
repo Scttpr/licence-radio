@@ -1,0 +1,18 @@
+{
+  "segmentId": "technique-composants-actifs-transistors-0",
+  "questions": [
+    {
+      "id": "q-technique-composants-actifs-transistors-0-001",
+      "type": "multiple_choice",
+      "prompt": "Question sur \"LES TRANSISTORS ET LEURS MONTAGES\" - À compléter manuellement",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct": 0,
+      "explanation": "Explication à ajouter."
+    }
+  ]
+}

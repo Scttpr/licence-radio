@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-courants-alternatifs",
+  "questions": [
+    {
+      "id": "q-tech-courants-alternatifs-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la relation entre frequence (f) et periode (T) ?",
+      "options": ["f = T", "f = 1/T", "f = T²", "f = 2T"],
+      "correct": 1,
+      "explanation": "La frequence est l'inverse de la periode : f = 1/T."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-002",
+      "type": "multiple_choice",
+      "prompt": "Le secteur 230 V est une valeur :",
+      "options": ["Crete", "Efficace", "Crete a crete", "Moyenne"],
+      "correct": 1,
+      "explanation": "La tension du secteur (230 V) est une valeur efficace."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la valeur crete du secteur 230 V ?",
+      "options": ["230 V", "325 V", "460 V", "115 V"],
+      "correct": 1,
+      "explanation": "Valeur crete = Ueff × √2 = 230 × 1,414 ≈ 325 V."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-004",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la reactance inductive XL ?",
+      "options": ["XL = 1/(2πfL)", "XL = 2πfL", "XL = 2πfC", "XL = R × L"],
+      "correct": 1,
+      "explanation": "La reactance inductive est XL = 2πfL."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-005",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la reactance capacitive XC ?",
+      "options": ["XC = 2πfC", "XC = 1/(2πfC)", "XC = 2πfL", "XC = R × C"],
+      "correct": 1,
+      "explanation": "La reactance capacitive est XC = 1/(2πfC)."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-006",
+      "type": "multiple_choice",
+      "prompt": "Quand la frequence augmente, la reactance d'une bobine :",
+      "options": ["Diminue", "Augmente", "Reste constante", "S'annule"],
+      "correct": 1,
+      "explanation": "XL = 2πfL : quand f augmente, XL augmente. La bobine bloque les hautes frequences."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-007",
+      "type": "multiple_choice",
+      "prompt": "Quand la frequence augmente, la reactance d'un condensateur :",
+      "options": ["Augmente", "Diminue", "Reste constante", "Double"],
+      "correct": 1,
+      "explanation": "XC = 1/(2πfC) : quand f augmente, XC diminue. Le condensateur laisse passer les HF."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-008",
+      "type": "multiple_choice",
+      "prompt": "Quelle est l'unite de l'inductance ?",
+      "options": ["Farad", "Henry", "Ohm", "Hertz"],
+      "correct": 1,
+      "explanation": "L'inductance se mesure en Henry (H)."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-009",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la constante de temps d'un circuit RC ?",
+      "options": ["τ = R / C", "τ = R + C", "τ = R × C", "τ = C / R"],
+      "correct": 2,
+      "explanation": "La constante de temps d'un circuit RC est τ = R × C."
+    },
+    {
+      "id": "q-tech-courants-alternatifs-010",
+      "type": "multiple_choice",
+      "prompt": "Apres un temps τ, un condensateur est charge a :",
+      "options": ["50%", "63%", "100%", "37%"],
+      "correct": 1,
+      "explanation": "Apres un temps egal a la constante de temps τ, le condensateur est charge a 63% de la tension finale."
+    }
+  ]
+}

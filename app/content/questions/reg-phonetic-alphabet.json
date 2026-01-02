@@ -1,0 +1,84 @@
+{
+  "segmentId": "reg-phonetic-alphabet",
+  "questions": [
+    {
+      "id": "q-reg-phonetic-alphabet-001",
+      "type": "multiple_choice",
+      "prompt": "Quel est le mot phonétique pour la lettre 'A' ?",
+      "options": ["Adam", "Alfa", "Alpha", "Anton"],
+      "correct": 1,
+      "explanation": "A = ALFA (sans 'ph' pour éviter la confusion entre langues)."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-002",
+      "type": "multiple_choice",
+      "prompt": "Quel est le mot phonétique pour la lettre 'J' ?",
+      "options": ["John", "James", "Juliet", "Juliett"],
+      "correct": 3,
+      "explanation": "J = JULIETT (avec deux 't' pour la prononciation internationale)."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-003",
+      "type": "multiple_choice",
+      "prompt": "Comment épelle-t-on 'F5' en phonétique ?",
+      "options": ["France Five", "Foxtrot Cinq", "Foxtrot Five", "Fox Fünf"],
+      "correct": 2,
+      "explanation": "F5 = Foxtrot Five. Les chiffres sont en anglais à l'international."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-004",
+      "type": "multiple_choice",
+      "prompt": "Quel est le mot phonétique pour 'Z' ?",
+      "options": ["Zebra", "Zero", "Zulu", "Zoulou"],
+      "correct": 2,
+      "explanation": "Z = ZULU dans l'alphabet phonétique international."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-005",
+      "type": "multiple_choice",
+      "prompt": "Comment prononcer le chiffre '9' en radiotéléphonie internationale ?",
+      "options": ["Neuf", "Niner", "Nine", "Neun"],
+      "correct": 2,
+      "explanation": "9 = NINE (parfois NINER en aéronautique, mais NINE en amateur)."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-006",
+      "type": "multiple_choice",
+      "prompt": "Quel est le mot phonétique pour 'Q' ?",
+      "options": ["Queen", "Quebec", "Quiet", "Query"],
+      "correct": 1,
+      "explanation": "Q = QUEBEC dans l'alphabet phonétique OTAN/UIT."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-007",
+      "type": "multiple_choice",
+      "prompt": "Quel est le mot phonétique pour 'X' ?",
+      "options": ["Xray", "X-ray", "Xavier", "Xylophone"],
+      "correct": 0,
+      "explanation": "X = XRAY (en un seul mot) dans l'alphabet phonétique."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-008",
+      "type": "multiple_choice",
+      "prompt": "Comment épelle-t-on 'ON4' en phonétique ?",
+      "options": ["Oscar November Four", "Oscar Nancy Quatre", "Ontario November Four", "Oscar November Quatre"],
+      "correct": 0,
+      "explanation": "ON4 = Oscar November Four. Les chiffres sont toujours en anglais."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-009",
+      "type": "true_false",
+      "prompt": "Le mot phonétique pour 'M' est 'Michael'.",
+      "correct": false,
+      "explanation": "M = MIKE (pas Michael) dans l'alphabet phonétique international."
+    },
+    {
+      "id": "q-reg-phonetic-alphabet-010",
+      "type": "multiple_choice",
+      "prompt": "Quel est le mot phonétique pour 'Y' ?",
+      "options": ["Yellow", "Yankee", "Young", "York"],
+      "correct": 1,
+      "explanation": "Y = YANKEE dans l'alphabet phonétique OTAN/UIT."
+    }
+  ]
+}

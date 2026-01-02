@@ -15,6 +15,8 @@ git-repository-url = "https://github.com/scttpr/licence-radio"
 edit-url-template = "https://github.com/scttpr/licence-radio/edit/main/{path}"
 site-url = "/licence-radio/"
 no-section-label = false
+additional-css = ["theme/css/progress.css"]
+additional-js = ["theme/js/progress.js"]
 
 [output.html.fold]
 enable = true

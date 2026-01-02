@@ -1,0 +1,18 @@
+{
+  "segmentId": "reglementation-frequences-puissances-0",
+  "questions": [
+    {
+      "id": "q-reglementation-frequences-puissances-0-001",
+      "type": "multiple_choice",
+      "prompt": "Question sur \"FRÉQUENCES ET PUISSANCES AUTORISÉES\" - À compléter manuellement",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct": 0,
+      "explanation": "Explication à ajouter."
+    }
+  ]
+}

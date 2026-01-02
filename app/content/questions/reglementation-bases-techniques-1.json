@@ -1,0 +1,18 @@
+{
+  "segmentId": "reglementation-bases-techniques-1",
+  "questions": [
+    {
+      "id": "q-reglementation-bases-techniques-1-001",
+      "type": "multiple_choice",
+      "prompt": "Question sur \"CONNAISSANCES TECHNIQUES DE BASE\" - À compléter manuellement",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct": 0,
+      "explanation": "Explication à ajouter."
+    }
+  ]
+}

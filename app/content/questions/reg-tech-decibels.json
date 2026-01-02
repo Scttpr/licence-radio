@@ -1,0 +1,84 @@
+{
+  "segmentId": "reg-tech-decibels",
+  "questions": [
+    {
+      "id": "q-reg-tech-decibels-001",
+      "type": "multiple_choice",
+      "prompt": "Que représente un gain de +3 dB en puissance ?",
+      "options": ["×1,5", "×2", "×3", "×4"],
+      "correct": 1,
+      "explanation": "+3 dB = ×2 en puissance. C'est LA valeur à retenir absolument."
+    },
+    {
+      "id": "q-reg-tech-decibels-002",
+      "type": "multiple_choice",
+      "prompt": "Un amplificateur de 6 dB reçoit 10 W en entrée. Quelle est la puissance de sortie ?",
+      "options": ["16 W", "20 W", "40 W", "60 W"],
+      "correct": 2,
+      "explanation": "+6 dB = +3 dB + 3 dB = ×2 × ×2 = ×4. Donc 10 W × 4 = 40 W."
+    },
+    {
+      "id": "q-reg-tech-decibels-003",
+      "type": "multiple_choice",
+      "prompt": "Que représente +10 dB en rapport de puissance ?",
+      "options": ["×5", "×10", "×20", "×100"],
+      "correct": 1,
+      "explanation": "+10 dB = ×10 en puissance. Autre valeur clé à mémoriser."
+    },
+    {
+      "id": "q-reg-tech-decibels-004",
+      "type": "multiple_choice",
+      "prompt": "Une perte de câble de -3 dB sur 100 W donne :",
+      "options": ["97 W", "70 W", "50 W", "30 W"],
+      "correct": 2,
+      "explanation": "-3 dB = ÷2. Donc 100 W ÷ 2 = 50 W en sortie."
+    },
+    {
+      "id": "q-reg-tech-decibels-005",
+      "type": "multiple_choice",
+      "prompt": "Un émetteur consomme 50 W et fournit 30 W. Quel est son rendement ?",
+      "options": ["30%", "50%", "60%", "80%"],
+      "correct": 2,
+      "explanation": "Rendement = (Sortie × 100) / Entrée = (30 × 100) / 50 = 60%."
+    },
+    {
+      "id": "q-reg-tech-decibels-006",
+      "type": "multiple_choice",
+      "prompt": "Que représente +20 dB en rapport de puissance ?",
+      "options": ["×20", "×50", "×100", "×200"],
+      "correct": 2,
+      "explanation": "+20 dB = +10 dB + 10 dB = ×10 × ×10 = ×100 en puissance."
+    },
+    {
+      "id": "q-reg-tech-decibels-007",
+      "type": "multiple_choice",
+      "prompt": "Un câble a 6 dB de pertes. Quelle puissance arrive à l'antenne si l'émetteur fournit 100 W ?",
+      "options": ["94 W", "50 W", "25 W", "10 W"],
+      "correct": 2,
+      "explanation": "-6 dB = ÷4. Donc 100 W ÷ 4 = 25 W arrivent à l'antenne."
+    },
+    {
+      "id": "q-reg-tech-decibels-008",
+      "type": "true_false",
+      "prompt": "Un gain de 0 dB signifie que la puissance est inchangée.",
+      "correct": true,
+      "explanation": "0 dB = ×1, donc aucun gain ni perte. La puissance de sortie égale la puissance d'entrée."
+    },
+    {
+      "id": "q-reg-tech-decibels-009",
+      "type": "multiple_choice",
+      "prompt": "Quel est le gain total d'un système avec +10 dB d'ampli et -3 dB de câble ?",
+      "options": ["+7 dB", "+13 dB", "+30 dB", "-30 dB"],
+      "correct": 0,
+      "explanation": "Les dB s'additionnent : +10 dB + (-3 dB) = +7 dB de gain total."
+    },
+    {
+      "id": "q-reg-tech-decibels-010",
+      "type": "multiple_choice",
+      "prompt": "Que représente -10 dB en rapport de puissance ?",
+      "options": ["÷2", "÷5", "÷10", "÷100"],
+      "correct": 2,
+      "explanation": "-10 dB = ÷10 en puissance. 100 W avec -10 dB = 10 W."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "segmentId": "reg-tech-safety",
+  "questions": [
+    {
+      "id": "q-reg-tech-safety-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension maximale de sécurité en milieu SEC ?",
+      "options": ["12 V", "24 V", "50 V", "120 V"],
+      "correct": 2,
+      "explanation": "50 V max en milieu sec, 24 V en humide, 12 V en immersion."
+    },
+    {
+      "id": "q-reg-tech-safety-002",
+      "type": "multiple_choice",
+      "prompt": "De quelle couleur est le fil de TERRE dans une installation 230V ?",
+      "options": ["Bleu", "Rouge", "Jaune-vert", "Noir"],
+      "correct": 2,
+      "explanation": "Jaune-vert = Terre (protection). Bleu = Neutre. Rouge/marron/noir = Phase (danger max)."
+    },
+    {
+      "id": "q-reg-tech-safety-003",
+      "type": "multiple_choice",
+      "prompt": "Contre quoi protège un disjoncteur différentiel ?",
+      "options": ["Court-circuit", "Surtension", "Fuite de courant (électrocution)", "Foudre"],
+      "correct": 2,
+      "explanation": "Différentiel = contre les fuites de courant et l'électrocution. Fusible = surintensité."
+    },
+    {
+      "id": "q-reg-tech-safety-004",
+      "type": "multiple_choice",
+      "prompt": "Que faut-il faire par temps d'orage ?",
+      "options": ["Augmenter la puissance", "Passer en QRP", "Cesser d'émettre et débrancher", "Changer de fréquence"],
+      "correct": 2,
+      "explanation": "Par temps d'orage : cesser d'émettre et débrancher les antennes pour éviter la foudre."
+    },
+    {
+      "id": "q-reg-tech-safety-005",
+      "type": "multiple_choice",
+      "prompt": "Contre quoi protège un fusible ?",
+      "options": ["Électrocution", "Surintensité (court-circuit)", "Surtension", "Foudre"],
+      "correct": 1,
+      "explanation": "Fusible = protection contre les surintensités/courts-circuits. Différentiel = électrocution."
+    },
+    {
+      "id": "q-reg-tech-safety-006",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la couleur du fil de PHASE (danger) ?",
+      "options": ["Bleu", "Jaune-vert", "Rouge, marron ou noir", "Blanc"],
+      "correct": 2,
+      "explanation": "Phase = Rouge, marron ou noir. C'est le fil le plus dangereux (230V par rapport à la terre)."
+    },
+    {
+      "id": "q-reg-tech-safety-007",
+      "type": "true_false",
+      "prompt": "Une bonne mise à la terre de la station améliore la sécurité ET les performances RF.",
+      "correct": true,
+      "explanation": "La mise à la terre protège contre les chocs électriques et améliore le fonctionnement des antennes."
+    },
+    {
+      "id": "q-reg-tech-safety-008",
+      "type": "multiple_choice",
+      "prompt": "Que faire avant de travailler sur une antenne ?",
+      "options": ["Augmenter la puissance", "Débrancher et mettre hors tension", "Émettre un CQ", "Vérifier le ROS"],
+      "correct": 1,
+      "explanation": "Toujours couper l'alimentation et débrancher avant de travailler sur une antenne."
+    },
+    {
+      "id": "q-reg-tech-safety-009",
+      "type": "multiple_choice",
+      "prompt": "Quel dispositif protège contre les surtensions dues à la foudre ?",
+      "options": ["Fusible", "Disjoncteur différentiel", "Parafoudre/éclateur", "Transformateur d'isolement"],
+      "correct": 2,
+      "explanation": "Le parafoudre ou éclateur dérive les surtensions vers la terre pour protéger les équipements."
+    },
+    {
+      "id": "q-reg-tech-safety-010",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension maximale de sécurité en milieu HUMIDE ?",
+      "options": ["12 V", "24 V", "50 V", "120 V"],
+      "correct": 1,
+      "explanation": "24 V max en milieu humide (salle de bain, extérieur). 50 V en sec, 12 V en immersion."
+    }
+  ]
+}

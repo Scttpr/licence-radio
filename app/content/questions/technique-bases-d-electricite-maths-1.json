@@ -1,0 +1,18 @@
+{
+  "segmentId": "technique-bases-d-electricite-maths-1",
+  "questions": [
+    {
+      "id": "q-technique-bases-d-electricite-maths-1-001",
+      "type": "multiple_choice",
+      "prompt": "Question sur \"RAPPELS DE MATHÉMATIQUES ET D'ALGÈBRE\" - À compléter manuellement",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct": 0,
+      "explanation": "Explication à ajouter."
+    }
+  ]
+}

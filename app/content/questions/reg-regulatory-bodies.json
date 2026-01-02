@@ -1,0 +1,83 @@
+{
+  "segmentId": "reg-regulatory-bodies",
+  "questions": [
+    {
+      "id": "q-reg-regulatory-bodies-001",
+      "type": "multiple_choice",
+      "prompt": "Quel organisme international gère le spectre radioélectrique mondial ?",
+      "options": ["ARCEP", "ANFR", "UIT", "CEPT"],
+      "correct": 2,
+      "explanation": "L'UIT (Union Internationale des Télécommunications) gère le spectre mondial et divise la Terre en 3 régions."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-002",
+      "type": "multiple_choice",
+      "prompt": "Dans quelle région UIT se trouve la France métropolitaine ?",
+      "options": ["Région 1", "Région 2", "Région 3", "Région 4"],
+      "correct": 0,
+      "explanation": "La France métropolitaine est en Région 1 (Europe, Afrique, Moyen-Orient)."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-003",
+      "type": "multiple_choice",
+      "prompt": "Que permet la licence CEPT T/R 61-01 ?",
+      "options": ["Émettre uniquement en France", "Émettre dans les pays CEPT sans autorisation supplémentaire", "Accéder à plus de fréquences", "Utiliser plus de puissance"],
+      "correct": 1,
+      "explanation": "La licence CEPT permet d'émettre dans tous les pays membres sans demander d'autorisation locale."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-004",
+      "type": "multiple_choice",
+      "prompt": "Quel organisme français délivre les certificats d'opérateur radioamateur ?",
+      "options": ["ARCEP", "ANFR", "UIT", "Préfecture"],
+      "correct": 1,
+      "explanation": "L'ANFR (Agence Nationale des Fréquences) délivre les certificats et gère les indicatifs en France."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-005",
+      "type": "multiple_choice",
+      "prompt": "Que signifie HAREC ?",
+      "options": ["High Amateur Radio Exam Certificate", "Harmonised Amateur Radio Examination Certificate", "Ham Radio European Certificate", "Harmonised Amateur Radio Equipment Control"],
+      "correct": 1,
+      "explanation": "HAREC = Harmonised Amateur Radio Examination Certificate, le certificat européen harmonisé."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-006",
+      "type": "multiple_choice",
+      "prompt": "Quel est le rôle de l'ARCEP ?",
+      "options": ["Délivrer les indicatifs", "Réguler les télécommunications en France", "Gérer le spectre mondial", "Organiser les examens"],
+      "correct": 1,
+      "explanation": "L'ARCEP est l'Autorité de Régulation des Communications Électroniques, des Postes et de la distribution de la presse."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-007",
+      "type": "true_false",
+      "prompt": "La Région 2 de l'UIT comprend les Amériques.",
+      "correct": true,
+      "explanation": "Région 1 = Europe/Afrique/Moyen-Orient, Région 2 = Amériques, Région 3 = Asie-Pacifique."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-008",
+      "type": "multiple_choice",
+      "prompt": "Que signifie CEPT ?",
+      "options": ["Comité Européen des Postes et Télécommunications", "Conférence Européenne des Postes et Télécommunications", "Commission Européenne des Puissances Transmises", "Certificat Européen de Pratique Technique"],
+      "correct": 1,
+      "explanation": "CEPT = Conférence Européenne des Administrations des Postes et Télécommunications."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-009",
+      "type": "multiple_choice",
+      "prompt": "Le Règlement des Radiocommunications (RR) est publié par :",
+      "options": ["L'ANFR", "L'ARCEP", "L'UIT", "La CEPT"],
+      "correct": 2,
+      "explanation": "Le RR est un traité international publié par l'UIT, contraignant pour tous les États membres."
+    },
+    {
+      "id": "q-reg-regulatory-bodies-010",
+      "type": "true_false",
+      "prompt": "Avec une licence HAREC, on peut émettre dans n'importe quel pays du monde.",
+      "correct": false,
+      "explanation": "HAREC facilite la reconnaissance dans les pays CEPT, mais d'autres pays peuvent exiger des formalités supplémentaires."
+    }
+  ]
+}

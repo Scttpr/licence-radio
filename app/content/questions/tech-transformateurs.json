@@ -1,0 +1,84 @@
+{
+  "segmentId": "tech-transformateurs",
+  "questions": [
+    {
+      "id": "q-tech-transformateurs-001",
+      "type": "multiple_choice",
+      "prompt": "Un transformateur avec 1000 spires au primaire et 100 au secondaire, alimente en 230 V. Quelle tension au secondaire ?",
+      "options": ["2300 V", "23 V", "230 V", "2,3 V"],
+      "correct": 1,
+      "explanation": "U2 = U1 × (N2/N1) = 230 × (100/1000) = 23 V."
+    },
+    {
+      "id": "q-tech-transformateurs-002",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension nominale d'un element d'accumulateur au plomb ?",
+      "options": ["1,2 V", "1,5 V", "2 V", "3,7 V"],
+      "correct": 2,
+      "explanation": "Un element d'accumulateur au plomb a une tension nominale de 2 V."
+    },
+    {
+      "id": "q-tech-transformateurs-003",
+      "type": "multiple_choice",
+      "prompt": "Comment branche-t-on un voltmetre ?",
+      "options": ["En serie", "En parallele", "En triangle", "En etoile"],
+      "correct": 1,
+      "explanation": "Le voltmetre se branche en parallele sur le circuit pour mesurer la tension."
+    },
+    {
+      "id": "q-tech-transformateurs-004",
+      "type": "multiple_choice",
+      "prompt": "Comment branche-t-on un amperemetre ?",
+      "options": ["En parallele", "En serie", "En triangle", "En derivation"],
+      "correct": 1,
+      "explanation": "L'amperemetre se branche en serie dans le circuit pour mesurer l'intensite."
+    },
+    {
+      "id": "q-tech-transformateurs-005",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension nominale d'un accumulateur NiMH ?",
+      "options": ["1,5 V", "1,2 V", "2 V", "3,7 V"],
+      "correct": 1,
+      "explanation": "Les accumulateurs NiMH et NiCd ont une tension nominale de 1,2 V."
+    },
+    {
+      "id": "q-tech-transformateurs-006",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la tension nominale d'un accumulateur Li-ion ?",
+      "options": ["1,2 V", "1,5 V", "2 V", "3,6-3,7 V"],
+      "correct": 3,
+      "explanation": "Les accumulateurs Li-ion ont une tension nominale de 3,6 a 3,7 V."
+    },
+    {
+      "id": "q-tech-transformateurs-007",
+      "type": "multiple_choice",
+      "prompt": "Dans un transformateur, si on double le nombre de spires au secondaire :",
+      "options": ["La tension double", "La tension diminue de moitie", "La tension reste identique", "Le courant double"],
+      "correct": 0,
+      "explanation": "Le rapport de transformation est proportionnel au nombre de spires : U2/U1 = N2/N1."
+    },
+    {
+      "id": "q-tech-transformateurs-008",
+      "type": "true_false",
+      "prompt": "Une pile alcaline est rechargeable.",
+      "correct": false,
+      "explanation": "Les piles alcalines ne sont pas rechargeables, contrairement aux accumulateurs."
+    },
+    {
+      "id": "q-tech-transformateurs-009",
+      "type": "multiple_choice",
+      "prompt": "Qu'est-ce qu'un galvanometre ?",
+      "options": ["Un appareil pour mesurer de fortes tensions", "Un appareil pour mesurer de faibles courants", "Un type de transformateur", "Un condensateur"],
+      "correct": 1,
+      "explanation": "Le galvanometre est un appareil qui permet de mesurer de faibles courants."
+    },
+    {
+      "id": "q-tech-transformateurs-010",
+      "type": "multiple_choice",
+      "prompt": "Dans un transformateur abaisseur de tension, le courant au secondaire est :",
+      "options": ["Plus faible qu'au primaire", "Plus eleve qu'au primaire", "Identique au primaire", "Nul"],
+      "correct": 1,
+      "explanation": "La puissance etant conservee (P=UI), si U diminue, I augmente."
+    }
+  ]
+}

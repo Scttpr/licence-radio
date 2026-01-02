@@ -1,0 +1,37 @@
+{
+  "segmentId": "tech-transistors-montages",
+  "questions": [
+    {
+      "id": "q-tech-transistors-montages-001",
+      "type": "multiple_choice",
+      "prompt": "Quel montage de transistor provoque un dephasage de 180° ?",
+      "options": ["Collecteur commun", "Base commune", "Emetteur commun", "Aucun"],
+      "correct": 2,
+      "explanation": "Le montage emetteur commun inverse le signal (dephasage de 180°)."
+    },
+    {
+      "id": "q-tech-transistors-montages-002",
+      "type": "multiple_choice",
+      "prompt": "Quel type de transistor genere le moins de bruit ?",
+      "options": ["Bipolaire NPN", "Bipolaire PNP", "FET", "Triode"],
+      "correct": 2,
+      "explanation": "Les transistors FET generent moins de bruit que les bipolaires."
+    },
+    {
+      "id": "q-tech-transistors-montages-003",
+      "type": "multiple_choice",
+      "prompt": "Quelles sont les electrodes d'un transistor FET ?",
+      "options": ["Emetteur, Base, Collecteur", "Source, Drain, Porte", "Anode, Cathode, Grille", "Entree, Sortie, Commande"],
+      "correct": 1,
+      "explanation": "Le FET possede une Source, un Drain et une Porte (Gate)."
+    },
+    {
+      "id": "q-tech-transistors-montages-004",
+      "type": "multiple_choice",
+      "prompt": "Quel montage est utilise comme emetteur suiveur ?",
+      "options": ["Emetteur commun", "Collecteur commun", "Base commune", "Drain commun"],
+      "correct": 1,
+      "explanation": "Le montage collecteur commun est aussi appele emetteur suiveur."
+    }
+  ]
+}

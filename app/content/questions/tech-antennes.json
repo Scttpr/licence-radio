@@ -1,0 +1,85 @@
+{
+  "segmentId": "tech-antennes",
+  "questions": [
+    {
+      "id": "q-tech-antennes-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la longueur d'onde ?",
+      "options": ["λ = f × 300", "λ = 300 / f(MHz)", "λ = f / 300", "λ = 300 × f"],
+      "correct": 1,
+      "explanation": "La longueur d'onde en metres est λ = 300 / f(MHz)."
+    },
+    {
+      "id": "q-tech-antennes-002",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la longueur d'un dipole demi-onde pour 14 MHz ?",
+      "options": ["21 m", "10,7 m", "5,3 m", "42 m"],
+      "correct": 1,
+      "explanation": "Dipole demi-onde : L = 150/f = 150/14 = 10,7 m."
+    },
+    {
+      "id": "q-tech-antennes-003",
+      "type": "multiple_choice",
+      "prompt": "Quelle est l'impedance d'un dipole demi-onde alimente au centre ?",
+      "options": ["50 Ω", "73 Ω", "300 Ω", "36 Ω"],
+      "correct": 1,
+      "explanation": "Un dipole demi-onde avec brins alignes a une impedance de 73 Ω au centre."
+    },
+    {
+      "id": "q-tech-antennes-004",
+      "type": "multiple_choice",
+      "prompt": "Dans une antenne Yagi, les directeurs sont :",
+      "options": ["Plus longs que le dipole", "Plus courts que le dipole", "De meme longueur", "Absents"],
+      "correct": 1,
+      "explanation": "Les directeurs sont plus courts que le dipole et places vers l'avant."
+    },
+    {
+      "id": "q-tech-antennes-005",
+      "type": "multiple_choice",
+      "prompt": "Quelle couche ionospherique est responsable de la reflexion principale en HF ?",
+      "options": ["Couche D", "Couche E", "Couche F", "Couche A"],
+      "correct": 2,
+      "explanation": "La couche F (130-650 km) est responsable de la reflexion principale des ondes HF."
+    },
+    {
+      "id": "q-tech-antennes-006",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la longueur d'une antenne quart d'onde ?",
+      "options": ["L = 300/f", "L = 150/f", "L = 75/f", "L = 50/f"],
+      "correct": 2,
+      "explanation": "Antenne quart d'onde : L(m) = 75 / f(MHz)."
+    },
+    {
+      "id": "q-tech-antennes-007",
+      "type": "multiple_choice",
+      "prompt": "Quel est le gain d'un dipole par rapport a l'antenne isotrope ?",
+      "options": ["0 dBi", "2,14 dBi", "6 dBi", "10 dBi"],
+      "correct": 1,
+      "explanation": "Le dipole a un gain de 2,14 dBi par rapport a l'antenne isotrope."
+    },
+    {
+      "id": "q-tech-antennes-008",
+      "type": "multiple_choice",
+      "prompt": "L'effet Doppler se manifeste quand :",
+      "options": ["L'antenne est trop longue", "Les stations se rapprochent ou s'eloignent", "La frequence est trop haute", "La puissance est trop forte"],
+      "correct": 1,
+      "explanation": "L'effet Doppler modifie la frequence recue quand les stations sont en mouvement relatif."
+    },
+    {
+      "id": "q-tech-antennes-009",
+      "type": "multiple_choice",
+      "prompt": "Que signifie FOT ?",
+      "options": ["Frequence Optimale de Transmission", "Frequence Optimum de Travail", "Filtre Onde de Terre", "Frequence Onde Totale"],
+      "correct": 1,
+      "explanation": "FOT = Frequence Optimum de Travail = 80% de la FMU."
+    },
+    {
+      "id": "q-tech-antennes-010",
+      "type": "multiple_choice",
+      "prompt": "Un bond ionospherique permet de couvrir au maximum environ :",
+      "options": ["500 km", "1000 km", "4000 km", "10000 km"],
+      "correct": 2,
+      "explanation": "Un bond ionospherique permet de couvrir au maximum environ 4000 km."
+    }
+  ]
+}

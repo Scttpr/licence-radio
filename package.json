@@ -1,0 +1,24 @@
+{
+  "name": "ham-radio-learning",
+  "version": "1.0.0",
+  "description": "Spaced repetition learning platform for HAM radio licence preparation",
+  "private": true,
+  "scripts": {
+    "build": "node build/build.js",
+    "serve": "npx http-server app -p 8080 -c-1",
+    "dev": "npm run serve",
+    "rebuild": "npm run build && npm run serve"
+  },
+  "keywords": [
+    "ham-radio",
+    "learning",
+    "spaced-repetition",
+    "licence"
+  ],
+  "author": "F6GPX - Jean-Luc Fortin",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "katex": "^0.16.27",
+    "marked": "^17.0.1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "segmentId": "tech-puissance",
+  "questions": [
+    {
+      "id": "q-tech-puissance-001",
+      "type": "multiple_choice",
+      "prompt": "Quelle est la formule de la puissance electrique ?",
+      "options": ["P = U / I", "P = U + I", "P = U × I", "P = R × I"],
+      "correct": 2,
+      "explanation": "La puissance electrique est P = U × I (en watts)."
+    },
+    {
+      "id": "q-tech-puissance-002",
+      "type": "multiple_choice",
+      "prompt": "Si P = 24 W et U = 12 V, quelle est l'intensite I ?",
+      "options": ["2 A", "0,5 A", "288 A", "36 A"],
+      "correct": 0,
+      "explanation": "I = P / U = 24 / 12 = 2 A."
+    },
+    {
+      "id": "q-tech-puissance-003",
+      "type": "multiple_choice",
+      "prompt": "Un appareil consomme 5 A sous 230 V. Quelle est sa puissance ?",
+      "options": ["46 W", "235 W", "1150 W", "2300 W"],
+      "correct": 2,
+      "explanation": "P = U × I = 230 × 5 = 1150 W."
+    }
+  ]
+}
